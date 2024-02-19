@@ -10,6 +10,8 @@ tags:
 SpocWebEntityId: 31297
 isDeleted: false
 confidential: public
+aliases:
+- Kaposvár
 
 ---
 [geo-lon::17.9] 
