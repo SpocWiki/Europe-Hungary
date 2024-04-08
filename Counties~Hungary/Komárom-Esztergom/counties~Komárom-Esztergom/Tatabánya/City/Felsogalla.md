@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.45] 
-[geo-lat::47.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.45] 
+[has_place_latitude::47.53] 
 [name::Felsogalla] 
 State ::  
 Country :: [[Hungary]]  

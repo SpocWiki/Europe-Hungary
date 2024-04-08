@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.6] 
-[geo-lat::47.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.6] 
+[has_place_latitude::47.05] 
 [name::Nagyvarad] 
 State ::  
 Country :: [[Hungary]]  

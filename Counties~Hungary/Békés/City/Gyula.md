@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.27] 
-[geo-lat::46.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.27] 
+[has_place_latitude::46.65] 
 [name::Gyula] 
 State ::  
 Country :: [[Hungary]]  

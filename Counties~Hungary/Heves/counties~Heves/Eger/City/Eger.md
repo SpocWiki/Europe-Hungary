@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.38] 
-[geo-lat::47.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.38] 
+[has_place_latitude::47.9] 
 [name::Eger] 
 State ::  
 Country :: [[Hungary]]  

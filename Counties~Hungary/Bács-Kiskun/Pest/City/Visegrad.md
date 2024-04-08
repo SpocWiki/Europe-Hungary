@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.92] 
-[geo-lat::47.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.92] 
+[has_place_latitude::47.8] 
 [name::Visegrad] 
 State ::  
 Country :: [[Hungary]]  

@@ -124,8 +124,10 @@ Capital :: [[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]
 ![[Flag_of_Hungary.svg|299]] 
 [Alcohol-l::16.3] 
 [Language-Id::] 
-[geo-lon::19.1508] 
-[geo-lat::47.2796] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.1508] 
+[has_place_latitude::47.2796] 
 
 
 

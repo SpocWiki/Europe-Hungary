@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.72] 
-[geo-lat::47.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.72] 
+[has_place_latitude::47.97] 
 [name::Nyiregyhaza] 
 State ::  
 Country :: [[Hungary]]  

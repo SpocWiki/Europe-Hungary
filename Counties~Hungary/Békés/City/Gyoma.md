@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.83] 
-[geo-lat::46.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.83] 
+[has_place_latitude::46.95] 
 [name::Gyoma] 
 State ::  
 Country :: [[Hungary]]  

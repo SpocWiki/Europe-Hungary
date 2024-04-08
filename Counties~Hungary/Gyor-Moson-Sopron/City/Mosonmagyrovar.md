@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.27] 
-[geo-lat::47.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.27] 
+[has_place_latitude::47.87] 
 [name::Mosonmagyrovar] 
 State ::  
 Country :: [[Hungary]]  

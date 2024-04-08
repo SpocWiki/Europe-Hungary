@@ -14,8 +14,10 @@ aliases:
 - Kaposvár
 
 ---
-[geo-lon::17.9] 
-[geo-lat::46.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.9] 
+[has_place_latitude::46.37] 
 [name::Kaposvar] 
 State ::  
 Country :: [[Hungary]]  
