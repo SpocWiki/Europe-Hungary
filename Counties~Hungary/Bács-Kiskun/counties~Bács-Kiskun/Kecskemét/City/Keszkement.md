@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Keszkement|Keszkement]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Keszkement.public|Keszkement.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Keszkement.internal|Keszkement.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Keszkement.protect|Keszkement.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Keszkement.private|Keszkement.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Keszkement.personal|Keszkement.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Keszkement.secret|Keszkement.secret]] 
+
+### [Keszkement.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKeszkement.public.md) 
+
+### [Keszkement.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKeszkement.internal.md) 
+
+### [Keszkement.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKeszkement.protect.md) 
+
+### [Keszkement.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKeszkement.private.md) 
+
+### [Keszkement.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKeszkement.personal.md) 
+
+### [Keszkement.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKeszkement.secret.md)
+

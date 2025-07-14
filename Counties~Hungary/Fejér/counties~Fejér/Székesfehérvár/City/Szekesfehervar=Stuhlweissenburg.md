@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Szekesfehervar=Stuhlweissenburg|Szekesfehervar=Stuhlweissenburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Szekesfehervar=Stuhlweissenburg.public|Szekesfehervar=Stuhlweissenburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Szekesfehervar=Stuhlweissenburg.internal|Szekesfehervar=Stuhlweissenburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Szekesfehervar=Stuhlweissenburg.protect|Szekesfehervar=Stuhlweissenburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Szekesfehervar=Stuhlweissenburg.private|Szekesfehervar=Stuhlweissenburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Szekesfehervar=Stuhlweissenburg.personal|Szekesfehervar=Stuhlweissenburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Szekesfehervar=Stuhlweissenburg.secret|Szekesfehervar=Stuhlweissenburg.secret]] 
+
+### [Szekesfehervar=Stuhlweissenburg.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~Fejér\Székesfehérvár\CitySzekesfehervar=Stuhlweissenburg.public.md) 
+
+### [Szekesfehervar=Stuhlweissenburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~Fejér\Székesfehérvár\CitySzekesfehervar=Stuhlweissenburg.internal.md) 
+
+### [Szekesfehervar=Stuhlweissenburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~Fejér\Székesfehérvár\CitySzekesfehervar=Stuhlweissenburg.protect.md) 
+
+### [Szekesfehervar=Stuhlweissenburg.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~Fejér\Székesfehérvár\CitySzekesfehervar=Stuhlweissenburg.private.md) 
+
+### [Szekesfehervar=Stuhlweissenburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~Fejér\Székesfehérvár\CitySzekesfehervar=Stuhlweissenburg.personal.md) 
+
+### [Szekesfehervar=Stuhlweissenburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~Fejér\Székesfehérvár\CitySzekesfehervar=Stuhlweissenburg.secret.md)
+

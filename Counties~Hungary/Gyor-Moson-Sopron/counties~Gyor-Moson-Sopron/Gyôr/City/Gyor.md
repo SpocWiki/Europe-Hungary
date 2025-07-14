@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Gyor|Gyor]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Gyor.public|Gyor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Gyor.internal|Gyor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Gyor.protect|Gyor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Gyor.private|Gyor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Gyor.personal|Gyor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Gyor.secret|Gyor.secret]] 
+
+### [Gyor.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityGyor.public.md) 
+
+### [Gyor.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityGyor.internal.md) 
+
+### [Gyor.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityGyor.protect.md) 
+
+### [Gyor.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityGyor.private.md) 
+
+### [Gyor.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityGyor.personal.md) 
+
+### [Gyor.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityGyor.secret.md)
+

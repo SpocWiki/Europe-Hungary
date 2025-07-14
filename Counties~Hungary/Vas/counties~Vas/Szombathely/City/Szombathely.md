@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Szombathely|Szombathely]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Szombathely.public|Szombathely.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Szombathely.internal|Szombathely.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Szombathely.protect|Szombathely.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Szombathely.private|Szombathely.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Szombathely.personal|Szombathely.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Szombathely.secret|Szombathely.secret]] 
+
+### [Szombathely.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.public.md) 
+
+### [Szombathely.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.internal.md) 
+
+### [Szombathely.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.protect.md) 
+
+### [Szombathely.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.private.md) 
+
+### [Szombathely.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.personal.md) 
+
+### [Szombathely.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.secret.md)
+

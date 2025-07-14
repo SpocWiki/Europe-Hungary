@@ -40,11 +40,16 @@ markerFolder: ./Szolnok/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok|Szolnok]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.public|Szolnok.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.internal|Szolnok.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.protect|Szolnok.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.private|Szolnok.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.personal|Szolnok.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.secret|Szolnok.secret]] 
+
+### [Szolnok.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-SzolnokSzolnok.public.md) 
+
+### [Szolnok.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-SzolnokSzolnok.internal.md) 
+
+### [Szolnok.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-SzolnokSzolnok.protect.md) 
+
+### [Szolnok.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-SzolnokSzolnok.private.md) 
+
+### [Szolnok.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-SzolnokSzolnok.personal.md) 
+
+### [Szolnok.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-SzolnokSzolnok.secret.md)
 

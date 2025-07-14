@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Kiskoros|Kiskoros]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Kiskoros.public|Kiskoros.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Kiskoros.internal|Kiskoros.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Kiskoros.protect|Kiskoros.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Kiskoros.private|Kiskoros.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Kiskoros.personal|Kiskoros.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Kiskoros.secret|Kiskoros.secret]] 
+
+### [Kiskoros.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskoros.public.md) 
+
+### [Kiskoros.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskoros.internal.md) 
+
+### [Kiskoros.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskoros.protect.md) 
+
+### [Kiskoros.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskoros.private.md) 
+
+### [Kiskoros.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskoros.personal.md) 
+
+### [Kiskoros.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskoros.secret.md)
+

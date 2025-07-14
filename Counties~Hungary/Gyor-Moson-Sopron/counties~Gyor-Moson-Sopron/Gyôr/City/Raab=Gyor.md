@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Raab=Gyor|Raab=Gyor]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Raab=Gyor.public|Raab=Gyor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Raab=Gyor.internal|Raab=Gyor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Raab=Gyor.protect|Raab=Gyor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Raab=Gyor.private|Raab=Gyor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Raab=Gyor.personal|Raab=Gyor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Raab=Gyor.secret|Raab=Gyor.secret]] 
+
+### [Raab=Gyor.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityRaab=Gyor.public.md) 
+
+### [Raab=Gyor.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityRaab=Gyor.internal.md) 
+
+### [Raab=Gyor.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityRaab=Gyor.protect.md) 
+
+### [Raab=Gyor.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityRaab=Gyor.private.md) 
+
+### [Raab=Gyor.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityRaab=Gyor.personal.md) 
+
+### [Raab=Gyor.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-Sopron\Gyôr\CityRaab=Gyor.secret.md)
+

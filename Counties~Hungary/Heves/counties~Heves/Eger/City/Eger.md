@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Eger|Eger]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Eger.public|Eger.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Eger.internal|Eger.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Eger.protect|Eger.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Eger.private|Eger.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Eger.personal|Eger.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Eger.secret|Eger.secret]] 
+
+### [Eger.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.public.md) 
+
+### [Eger.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.internal.md) 
+
+### [Eger.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.protect.md) 
+
+### [Eger.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.private.md) 
+
+### [Eger.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.personal.md) 
+
+### [Eger.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.secret.md)
+

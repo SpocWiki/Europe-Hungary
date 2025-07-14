@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Kalocza|Kalocza]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Kalocza.public|Kalocza.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Kalocza.internal|Kalocza.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Kalocza.protect|Kalocza.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Kalocza.private|Kalocza.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Kalocza.personal|Kalocza.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Kalocza.secret|Kalocza.secret]] 
+
+### [Kalocza.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKalocza.public.md) 
+
+### [Kalocza.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKalocza.internal.md) 
+
+### [Kalocza.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKalocza.protect.md) 
+
+### [Kalocza.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKalocza.private.md) 
+
+### [Kalocza.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKalocza.personal.md) 
+
+### [Kalocza.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKalocza.secret.md)
+

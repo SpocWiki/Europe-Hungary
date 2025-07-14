@@ -40,11 +40,16 @@ markerFolder: ./Budapest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest|Budapest]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.public|Budapest.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.internal|Budapest.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.protect|Budapest.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.private|Budapest.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.personal|Budapest.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.secret|Budapest.secret]] 
+
+### [Budapest.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBudapest.public.md) 
+
+### [Budapest.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBudapest.internal.md) 
+
+### [Budapest.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBudapest.protect.md) 
+
+### [Budapest.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBudapest.private.md) 
+
+### [Budapest.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBudapest.personal.md) 
+
+### [Budapest.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBudapest.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Nagykoros|Nagykoros]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Nagykoros.public|Nagykoros.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Nagykoros.internal|Nagykoros.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Nagykoros.protect|Nagykoros.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Nagykoros.private|Nagykoros.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Nagykoros.personal|Nagykoros.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Nagykoros.secret|Nagykoros.secret]] 
+
+### [Nagykoros.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityNagykoros.public.md) 
+
+### [Nagykoros.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityNagykoros.internal.md) 
+
+### [Nagykoros.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityNagykoros.protect.md) 
+
+### [Nagykoros.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityNagykoros.private.md) 
+
+### [Nagykoros.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityNagykoros.personal.md) 
+
+### [Nagykoros.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityNagykoros.secret.md)
+

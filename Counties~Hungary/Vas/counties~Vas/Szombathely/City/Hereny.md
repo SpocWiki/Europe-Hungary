@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Hereny|Hereny]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Hereny.public|Hereny.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Hereny.internal|Hereny.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Hereny.protect|Hereny.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Hereny.private|Hereny.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Hereny.personal|Hereny.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Hereny.secret|Hereny.secret]] 
+
+### [Hereny.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.public.md) 
+
+### [Hereny.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.internal.md) 
+
+### [Hereny.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.protect.md) 
+
+### [Hereny.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.private.md) 
+
+### [Hereny.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.personal.md) 
+
+### [Hereny.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.secret.md)
+

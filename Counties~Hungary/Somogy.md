@@ -40,11 +40,16 @@ markerFolder: ./Somogy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy|Somogy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.public|Somogy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.internal|Somogy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.protect|Somogy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.private|Somogy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.personal|Somogy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.secret|Somogy.secret]] 
+
+### [Somogy.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySomogy.public.md) 
+
+### [Somogy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySomogy.internal.md) 
+
+### [Somogy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySomogy.protect.md) 
+
+### [Somogy.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySomogy.private.md) 
+
+### [Somogy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySomogy.personal.md) 
+
+### [Somogy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySomogy.secret.md)
 

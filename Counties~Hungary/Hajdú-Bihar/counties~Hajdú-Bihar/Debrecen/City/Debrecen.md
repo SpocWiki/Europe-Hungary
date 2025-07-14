@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Debrecen|Debrecen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Debrecen.public|Debrecen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Debrecen.internal|Debrecen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Debrecen.protect|Debrecen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Debrecen.private|Debrecen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Debrecen.personal|Debrecen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Debrecen.secret|Debrecen.secret]] 
+
+### [Debrecen.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.public.md) 
+
+### [Debrecen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.internal.md) 
+
+### [Debrecen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.protect.md) 
+
+### [Debrecen.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.private.md) 
+
+### [Debrecen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.personal.md) 
+
+### [Debrecen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.secret.md)
+

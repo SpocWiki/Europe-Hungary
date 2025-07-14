@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Sszarvas|Sszarvas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Sszarvas.public|Sszarvas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Sszarvas.internal|Sszarvas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Sszarvas.protect|Sszarvas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Sszarvas.private|Sszarvas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Sszarvas.personal|Sszarvas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Sszarvas.secret|Sszarvas.secret]] 
+
+### [Sszarvas.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.public.md) 
+
+### [Sszarvas.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.internal.md) 
+
+### [Sszarvas.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.protect.md) 
+
+### [Sszarvas.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.private.md) 
+
+### [Sszarvas.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.personal.md) 
+
+### [Sszarvas.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.secret.md)
+

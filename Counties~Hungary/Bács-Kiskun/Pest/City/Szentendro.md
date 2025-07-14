@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Szentendro|Szentendro]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Szentendro.public|Szentendro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Szentendro.internal|Szentendro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Szentendro.protect|Szentendro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Szentendro.private|Szentendro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Szentendro.personal|Szentendro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Szentendro.secret|Szentendro.secret]] 
+
+### [Szentendro.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CitySzentendro.public.md) 
+
+### [Szentendro.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CitySzentendro.internal.md) 
+
+### [Szentendro.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CitySzentendro.protect.md) 
+
+### [Szentendro.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CitySzentendro.private.md) 
+
+### [Szentendro.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CitySzentendro.personal.md) 
+
+### [Szentendro.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CitySzentendro.secret.md)
+

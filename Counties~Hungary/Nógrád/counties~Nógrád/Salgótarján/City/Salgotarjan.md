@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Salgotarjan|Salgotarjan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Salgotarjan.public|Salgotarjan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Salgotarjan.internal|Salgotarjan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Salgotarjan.protect|Salgotarjan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Salgotarjan.private|Salgotarjan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Salgotarjan.personal|Salgotarjan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Salgotarjan.secret|Salgotarjan.secret]] 
+
+### [Salgotarjan.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.public.md) 
+
+### [Salgotarjan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.internal.md) 
+
+### [Salgotarjan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.protect.md) 
+
+### [Salgotarjan.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.private.md) 
+
+### [Salgotarjan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.personal.md) 
+
+### [Salgotarjan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.secret.md)
+

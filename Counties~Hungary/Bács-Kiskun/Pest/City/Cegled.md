@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Cegled|Cegled]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Cegled.public|Cegled.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Cegled.internal|Cegled.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Cegled.protect|Cegled.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Cegled.private|Cegled.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Cegled.personal|Cegled.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Cegled.secret|Cegled.secret]] 
+
+### [Cegled.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityCegled.public.md) 
+
+### [Cegled.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityCegled.internal.md) 
+
+### [Cegled.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityCegled.protect.md) 
+
+### [Cegled.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityCegled.private.md) 
+
+### [Cegled.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityCegled.personal.md) 
+
+### [Cegled.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityCegled.secret.md)
+

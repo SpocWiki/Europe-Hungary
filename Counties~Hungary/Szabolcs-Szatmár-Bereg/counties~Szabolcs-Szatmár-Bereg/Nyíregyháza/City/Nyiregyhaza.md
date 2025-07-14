@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Nyiregyhaza|Nyiregyhaza]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Nyiregyhaza.public|Nyiregyhaza.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Nyiregyhaza.internal|Nyiregyhaza.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Nyiregyhaza.protect|Nyiregyhaza.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Nyiregyhaza.private|Nyiregyhaza.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Nyiregyhaza.personal|Nyiregyhaza.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Nyiregyhaza.secret|Nyiregyhaza.secret]] 
+
+### [Nyiregyhaza.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.public.md) 
+
+### [Nyiregyhaza.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.internal.md) 
+
+### [Nyiregyhaza.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.protect.md) 
+
+### [Nyiregyhaza.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.private.md) 
+
+### [Nyiregyhaza.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.personal.md) 
+
+### [Nyiregyhaza.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.secret.md)
+

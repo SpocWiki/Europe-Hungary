@@ -40,11 +40,16 @@ markerFolder: ./Miskolc/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc|Miskolc]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.public|Miskolc.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.internal|Miskolc.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.protect|Miskolc.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.private|Miskolc.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.personal|Miskolc.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.secret|Miskolc.secret]] 
+
+### [Miskolc.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.public.md) 
+
+### [Miskolc.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.internal.md) 
+
+### [Miskolc.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.protect.md) 
+
+### [Miskolc.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.private.md) 
+
+### [Miskolc.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.personal.md) 
+
+### [Miskolc.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.secret.md)
 

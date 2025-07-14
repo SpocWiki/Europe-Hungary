@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Szentes|Szentes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Szentes.public|Szentes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Szentes.internal|Szentes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Szentes.protect|Szentes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Szentes.private|Szentes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Szentes.personal|Szentes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Szentes.secret|Szentes.secret]] 
+
+### [Szentes.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CitySzentes.public.md) 
+
+### [Szentes.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CitySzentes.internal.md) 
+
+### [Szentes.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CitySzentes.protect.md) 
+
+### [Szentes.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CitySzentes.private.md) 
+
+### [Szentes.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CitySzentes.personal.md) 
+
+### [Szentes.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CitySzentes.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin|Szegedin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.public|Szegedin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.internal|Szegedin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.protect|Szegedin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.private|Szegedin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.personal|Szegedin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.secret|Szegedin.secret]] 
+
+### [Szegedin.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.public.md) 
+
+### [Szegedin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.internal.md) 
+
+### [Szegedin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.protect.md) 
+
+### [Szegedin.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.private.md) 
+
+### [Szegedin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.personal.md) 
+
+### [Szegedin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.secret.md)
+

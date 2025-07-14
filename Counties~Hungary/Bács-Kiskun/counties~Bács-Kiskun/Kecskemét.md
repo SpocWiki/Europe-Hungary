@@ -40,11 +40,16 @@ markerFolder: ./Kecskemét/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét|Kecskemét]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.public|Kecskemét.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.internal|Kecskemét.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.protect|Kecskemét.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.private|Kecskemét.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.personal|Kecskemét.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.secret|Kecskemét.secret]] 
+
+### [Kecskemét.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-KiskunKecskemét.public.md) 
+
+### [Kecskemét.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-KiskunKecskemét.internal.md) 
+
+### [Kecskemét.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-KiskunKecskemét.protect.md) 
+
+### [Kecskemét.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-KiskunKecskemét.private.md) 
+
+### [Kecskemét.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-KiskunKecskemét.personal.md) 
+
+### [Kecskemét.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-KiskunKecskemét.secret.md)
 

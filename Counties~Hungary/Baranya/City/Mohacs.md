@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Mohacs|Mohacs]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Mohacs.public|Mohacs.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Mohacs.internal|Mohacs.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Mohacs.protect|Mohacs.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Mohacs.private|Mohacs.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Mohacs.personal|Mohacs.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Mohacs.secret|Mohacs.secret]] 
+
+### [Mohacs.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMohacs.public.md) 
+
+### [Mohacs.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMohacs.internal.md) 
+
+### [Mohacs.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMohacs.protect.md) 
+
+### [Mohacs.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMohacs.private.md) 
+
+### [Mohacs.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMohacs.personal.md) 
+
+### [Mohacs.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMohacs.secret.md)
+

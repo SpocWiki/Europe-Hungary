@@ -40,11 +40,16 @@ markerFolder: ./Szeged/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged|Szeged]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.public|Szeged.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.internal|Szeged.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.protect|Szeged.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.private|Szeged.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.personal|Szeged.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.secret|Szeged.secret]] 
+
+### [Szeged.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.public.md) 
+
+### [Szeged.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.internal.md) 
+
+### [Szeged.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.protect.md) 
+
+### [Szeged.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.private.md) 
+
+### [Szeged.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.personal.md) 
+
+### [Szeged.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.secret.md)
 

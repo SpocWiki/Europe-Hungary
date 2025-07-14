@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Halduboszormeny|Halduboszormeny]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Halduboszormeny.public|Halduboszormeny.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Halduboszormeny.internal|Halduboszormeny.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Halduboszormeny.protect|Halduboszormeny.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Halduboszormeny.private|Halduboszormeny.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Halduboszormeny.personal|Halduboszormeny.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Halduboszormeny.secret|Halduboszormeny.secret]] 
+
+### [Halduboszormeny.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.public.md) 
+
+### [Halduboszormeny.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.internal.md) 
+
+### [Halduboszormeny.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.protect.md) 
+
+### [Halduboszormeny.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.private.md) 
+
+### [Halduboszormeny.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.personal.md) 
+
+### [Halduboszormeny.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.secret.md)
+

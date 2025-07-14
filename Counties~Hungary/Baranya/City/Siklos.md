@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Siklos|Siklos]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Siklos.public|Siklos.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Siklos.internal|Siklos.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Siklos.protect|Siklos.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Siklos.private|Siklos.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Siklos.personal|Siklos.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Siklos.secret|Siklos.secret]] 
+
+### [Siklos.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.public.md) 
+
+### [Siklos.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.internal.md) 
+
+### [Siklos.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.protect.md) 
+
+### [Siklos.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.private.md) 
+
+### [Siklos.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.personal.md) 
+
+### [Siklos.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.secret.md)
+

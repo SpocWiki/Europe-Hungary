@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Komarom|Komarom]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Komarom.public|Komarom.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Komarom.internal|Komarom.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Komarom.protect|Komarom.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Komarom.private|Komarom.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Komarom.personal|Komarom.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Komarom.secret|Komarom.secret]] 
+
+### [Komarom.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\CityKomarom.public.md) 
+
+### [Komarom.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\CityKomarom.internal.md) 
+
+### [Komarom.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\CityKomarom.protect.md) 
+
+### [Komarom.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\CityKomarom.private.md) 
+
+### [Komarom.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\CityKomarom.personal.md) 
+
+### [Komarom.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\CityKomarom.secret.md)
+

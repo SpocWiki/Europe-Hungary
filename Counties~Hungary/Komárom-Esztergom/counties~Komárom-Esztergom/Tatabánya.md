@@ -40,11 +40,16 @@ markerFolder: ./Tatabánya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya|Tatabánya]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.public|Tatabánya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.internal|Tatabánya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.protect|Tatabánya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.private|Tatabánya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.personal|Tatabánya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.secret|Tatabánya.secret]] 
+
+### [Tatabánya.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-EsztergomTatabánya.public.md) 
+
+### [Tatabánya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-EsztergomTatabánya.internal.md) 
+
+### [Tatabánya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-EsztergomTatabánya.protect.md) 
+
+### [Tatabánya.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-EsztergomTatabánya.private.md) 
+
+### [Tatabánya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-EsztergomTatabánya.personal.md) 
+
+### [Tatabánya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-EsztergomTatabánya.secret.md)
 

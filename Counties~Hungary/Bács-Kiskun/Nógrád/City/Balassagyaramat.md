@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Balassagyaramat|Balassagyaramat]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Balassagyaramat.public|Balassagyaramat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Balassagyaramat.internal|Balassagyaramat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Balassagyaramat.protect|Balassagyaramat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Balassagyaramat.private|Balassagyaramat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Balassagyaramat.personal|Balassagyaramat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Balassagyaramat.secret|Balassagyaramat.secret]] 
+
+### [Balassagyaramat.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.public.md) 
+
+### [Balassagyaramat.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.internal.md) 
+
+### [Balassagyaramat.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.protect.md) 
+
+### [Balassagyaramat.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.private.md) 
+
+### [Balassagyaramat.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.personal.md) 
+
+### [Balassagyaramat.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.secret.md)
+

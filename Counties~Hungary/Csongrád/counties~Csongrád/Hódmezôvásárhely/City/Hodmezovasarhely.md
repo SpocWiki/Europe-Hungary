@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Hodmezovasarhely|Hodmezovasarhely]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Hodmezovasarhely.public|Hodmezovasarhely.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Hodmezovasarhely.internal|Hodmezovasarhely.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Hodmezovasarhely.protect|Hodmezovasarhely.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Hodmezovasarhely.private|Hodmezovasarhely.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Hodmezovasarhely.personal|Hodmezovasarhely.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Hodmezovasarhely.secret|Hodmezovasarhely.secret]] 
+
+### [Hodmezovasarhely.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.public.md) 
+
+### [Hodmezovasarhely.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.internal.md) 
+
+### [Hodmezovasarhely.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.protect.md) 
+
+### [Hodmezovasarhely.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.private.md) 
+
+### [Hodmezovasarhely.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.personal.md) 
+
+### [Hodmezovasarhely.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.secret.md)
+

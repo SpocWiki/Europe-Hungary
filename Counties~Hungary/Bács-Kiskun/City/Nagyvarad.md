@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Nagyvarad|Nagyvarad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Nagyvarad.public|Nagyvarad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Nagyvarad.internal|Nagyvarad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Nagyvarad.protect|Nagyvarad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Nagyvarad.private|Nagyvarad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Nagyvarad.personal|Nagyvarad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Nagyvarad.secret|Nagyvarad.secret]] 
+
+### [Nagyvarad.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityNagyvarad.public.md) 
+
+### [Nagyvarad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityNagyvarad.internal.md) 
+
+### [Nagyvarad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityNagyvarad.protect.md) 
+
+### [Nagyvarad.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityNagyvarad.private.md) 
+
+### [Nagyvarad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityNagyvarad.personal.md) 
+
+### [Nagyvarad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityNagyvarad.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Csongrad|Csongrad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Csongrad.public|Csongrad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Csongrad.internal|Csongrad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Csongrad.protect|Csongrad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Csongrad.private|Csongrad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Csongrad.personal|Csongrad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Csongrad.secret|Csongrad.secret]] 
+
+### [Csongrad.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CityCsongrad.public.md) 
+
+### [Csongrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CityCsongrad.internal.md) 
+
+### [Csongrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CityCsongrad.protect.md) 
+
+### [Csongrad.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CityCsongrad.private.md) 
+
+### [Csongrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CityCsongrad.personal.md) 
+
+### [Csongrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\CityCsongrad.secret.md)
+

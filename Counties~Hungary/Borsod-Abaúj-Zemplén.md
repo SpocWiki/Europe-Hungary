@@ -40,11 +40,16 @@ markerFolder: ./Borsod-Abaúj-Zemplén/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén|Borsod-Abaúj-Zemplén]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.public|Borsod-Abaúj-Zemplén.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.internal|Borsod-Abaúj-Zemplén.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.protect|Borsod-Abaúj-Zemplén.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.private|Borsod-Abaúj-Zemplén.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.personal|Borsod-Abaúj-Zemplén.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.secret|Borsod-Abaúj-Zemplén.secret]] 
+
+### [Borsod-Abaúj-Zemplén.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBorsod-Abaúj-Zemplén.public.md) 
+
+### [Borsod-Abaúj-Zemplén.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBorsod-Abaúj-Zemplén.internal.md) 
+
+### [Borsod-Abaúj-Zemplén.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBorsod-Abaúj-Zemplén.protect.md) 
+
+### [Borsod-Abaúj-Zemplén.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBorsod-Abaúj-Zemplén.private.md) 
+
+### [Borsod-Abaúj-Zemplén.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBorsod-Abaúj-Zemplén.personal.md) 
+
+### [Borsod-Abaúj-Zemplén.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBorsod-Abaúj-Zemplén.secret.md)
 

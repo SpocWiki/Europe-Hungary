@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Szekszard|Szekszard]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Szekszard.public|Szekszard.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Szekszard.internal|Szekszard.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Szekszard.protect|Szekszard.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Szekszard.private|Szekszard.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Szekszard.personal|Szekszard.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Szekszard.secret|Szekszard.secret]] 
+
+### [Szekszard.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.public.md) 
+
+### [Szekszard.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.internal.md) 
+
+### [Szekszard.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.protect.md) 
+
+### [Szekszard.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.private.md) 
+
+### [Szekszard.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.personal.md) 
+
+### [Szekszard.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.secret.md)
+

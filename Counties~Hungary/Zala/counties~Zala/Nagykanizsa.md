@@ -40,11 +40,16 @@ markerFolder: ./Nagykanizsa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Nagykanizsa|Nagykanizsa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Nagykanizsa.public|Nagykanizsa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Nagykanizsa.internal|Nagykanizsa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Nagykanizsa.protect|Nagykanizsa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Nagykanizsa.private|Nagykanizsa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Nagykanizsa.personal|Nagykanizsa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Nagykanizsa.secret|Nagykanizsa.secret]] 
+
+### [Nagykanizsa.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaNagykanizsa.public.md) 
+
+### [Nagykanizsa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaNagykanizsa.internal.md) 
+
+### [Nagykanizsa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaNagykanizsa.protect.md) 
+
+### [Nagykanizsa.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaNagykanizsa.private.md) 
+
+### [Nagykanizsa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaNagykanizsa.personal.md) 
+
+### [Nagykanizsa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaNagykanizsa.secret.md)
 

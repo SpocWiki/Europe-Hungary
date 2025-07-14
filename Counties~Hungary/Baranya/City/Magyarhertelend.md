@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Magyarhertelend|Magyarhertelend]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Magyarhertelend.public|Magyarhertelend.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Magyarhertelend.internal|Magyarhertelend.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Magyarhertelend.protect|Magyarhertelend.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Magyarhertelend.private|Magyarhertelend.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Magyarhertelend.personal|Magyarhertelend.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Magyarhertelend.secret|Magyarhertelend.secret]] 
+
+### [Magyarhertelend.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.public.md) 
+
+### [Magyarhertelend.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.internal.md) 
+
+### [Magyarhertelend.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.protect.md) 
+
+### [Magyarhertelend.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.private.md) 
+
+### [Magyarhertelend.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.personal.md) 
+
+### [Magyarhertelend.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.secret.md)
+

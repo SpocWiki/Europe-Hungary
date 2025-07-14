@@ -40,11 +40,16 @@ markerFolder: ./Szekszárd/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd|Szekszárd]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.public|Szekszárd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.internal|Szekszárd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.protect|Szekszárd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.private|Szekszárd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.personal|Szekszárd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.secret|Szekszárd.secret]] 
+
+### [Szekszárd.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~TolnaSzekszárd.public.md) 
+
+### [Szekszárd.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~TolnaSzekszárd.internal.md) 
+
+### [Szekszárd.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~TolnaSzekszárd.protect.md) 
+
+### [Szekszárd.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~TolnaSzekszárd.private.md) 
+
+### [Szekszárd.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~TolnaSzekszárd.personal.md) 
+
+### [Szekszárd.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~TolnaSzekszárd.secret.md)
 

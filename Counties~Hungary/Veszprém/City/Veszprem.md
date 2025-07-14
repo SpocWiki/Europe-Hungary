@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Veszprem|Veszprem]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Veszprem.public|Veszprem.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Veszprem.internal|Veszprem.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Veszprem.protect|Veszprem.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Veszprem.private|Veszprem.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Veszprem.personal|Veszprem.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Veszprem.secret|Veszprem.secret]] 
+
+### [Veszprem.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityVeszprem.public.md) 
+
+### [Veszprem.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityVeszprem.internal.md) 
+
+### [Veszprem.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityVeszprem.protect.md) 
+
+### [Veszprem.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityVeszprem.private.md) 
+
+### [Veszprem.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityVeszprem.personal.md) 
+
+### [Veszprem.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityVeszprem.secret.md)
+

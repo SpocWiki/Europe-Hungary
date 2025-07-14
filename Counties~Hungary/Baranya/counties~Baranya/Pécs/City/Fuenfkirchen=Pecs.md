@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Fuenfkirchen=Pecs|Fuenfkirchen=Pecs]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Fuenfkirchen=Pecs.public|Fuenfkirchen=Pecs.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Fuenfkirchen=Pecs.internal|Fuenfkirchen=Pecs.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Fuenfkirchen=Pecs.protect|Fuenfkirchen=Pecs.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Fuenfkirchen=Pecs.private|Fuenfkirchen=Pecs.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Fuenfkirchen=Pecs.personal|Fuenfkirchen=Pecs.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Fuenfkirchen=Pecs.secret|Fuenfkirchen=Pecs.secret]] 
+
+### [Fuenfkirchen=Pecs.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.public.md) 
+
+### [Fuenfkirchen=Pecs.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.internal.md) 
+
+### [Fuenfkirchen=Pecs.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.protect.md) 
+
+### [Fuenfkirchen=Pecs.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.private.md) 
+
+### [Fuenfkirchen=Pecs.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.personal.md) 
+
+### [Fuenfkirchen=Pecs.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.secret.md)
+

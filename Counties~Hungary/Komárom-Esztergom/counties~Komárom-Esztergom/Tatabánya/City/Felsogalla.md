@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Felsogalla|Felsogalla]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Felsogalla.public|Felsogalla.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Felsogalla.internal|Felsogalla.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Felsogalla.protect|Felsogalla.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Felsogalla.private|Felsogalla.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Felsogalla.personal|Felsogalla.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Felsogalla.secret|Felsogalla.secret]] 
+
+### [Felsogalla.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.public.md) 
+
+### [Felsogalla.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.internal.md) 
+
+### [Felsogalla.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.protect.md) 
+
+### [Felsogalla.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.private.md) 
+
+### [Felsogalla.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.personal.md) 
+
+### [Felsogalla.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.secret.md)
+

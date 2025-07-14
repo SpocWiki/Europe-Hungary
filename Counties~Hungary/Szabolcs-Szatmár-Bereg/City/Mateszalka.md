@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Mateszalka|Mateszalka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Mateszalka.public|Mateszalka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Mateszalka.internal|Mateszalka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Mateszalka.protect|Mateszalka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Mateszalka.private|Mateszalka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Mateszalka.personal|Mateszalka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Mateszalka.secret|Mateszalka.secret]] 
+
+### [Mateszalka.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\CityMateszalka.public.md) 
+
+### [Mateszalka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\CityMateszalka.internal.md) 
+
+### [Mateszalka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\CityMateszalka.protect.md) 
+
+### [Mateszalka.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\CityMateszalka.private.md) 
+
+### [Mateszalka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\CityMateszalka.personal.md) 
+
+### [Mateszalka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\CityMateszalka.secret.md)
+

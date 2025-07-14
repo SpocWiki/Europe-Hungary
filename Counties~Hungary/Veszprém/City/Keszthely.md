@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely|Keszthely]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.public|Keszthely.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.internal|Keszthely.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.protect|Keszthely.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.private|Keszthely.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.personal|Keszthely.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.secret|Keszthely.secret]] 
+
+### [Keszthely.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.public.md) 
+
+### [Keszthely.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.internal.md) 
+
+### [Keszthely.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.protect.md) 
+
+### [Keszthely.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.private.md) 
+
+### [Keszthely.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.personal.md) 
+
+### [Keszthely.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.secret.md)
+

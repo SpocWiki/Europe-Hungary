@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Jaszbereny|Jaszbereny]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Jaszbereny.public|Jaszbereny.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Jaszbereny.internal|Jaszbereny.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Jaszbereny.protect|Jaszbereny.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Jaszbereny.private|Jaszbereny.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Jaszbereny.personal|Jaszbereny.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Jaszbereny.secret|Jaszbereny.secret]] 
+
+### [Jaszbereny.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityJaszbereny.public.md) 
+
+### [Jaszbereny.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityJaszbereny.internal.md) 
+
+### [Jaszbereny.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityJaszbereny.protect.md) 
+
+### [Jaszbereny.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityJaszbereny.private.md) 
+
+### [Jaszbereny.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityJaszbereny.personal.md) 
+
+### [Jaszbereny.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityJaszbereny.secret.md)
+

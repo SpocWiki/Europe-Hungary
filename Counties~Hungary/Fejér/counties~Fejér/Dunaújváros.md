@@ -40,11 +40,16 @@ markerFolder: ./Dunaújváros/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros|Dunaújváros]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.public|Dunaújváros.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.internal|Dunaújváros.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.protect|Dunaújváros.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.private|Dunaújváros.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.personal|Dunaújváros.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.secret|Dunaújváros.secret]] 
+
+### [Dunaújváros.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.public.md) 
+
+### [Dunaújváros.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.internal.md) 
+
+### [Dunaújváros.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.protect.md) 
+
+### [Dunaújváros.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.private.md) 
+
+### [Dunaújváros.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.personal.md) 
+
+### [Dunaújváros.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.secret.md)
 

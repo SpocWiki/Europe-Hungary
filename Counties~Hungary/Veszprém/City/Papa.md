@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Papa|Papa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Papa.public|Papa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Papa.internal|Papa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Papa.protect|Papa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Papa.private|Papa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Papa.personal|Papa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Papa.secret|Papa.secret]] 
+
+### [Papa.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityPapa.public.md) 
+
+### [Papa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityPapa.internal.md) 
+
+### [Papa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityPapa.protect.md) 
+
+### [Papa.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityPapa.private.md) 
+
+### [Papa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityPapa.personal.md) 
+
+### [Papa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityPapa.secret.md)
+

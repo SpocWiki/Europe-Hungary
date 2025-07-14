@@ -40,11 +40,16 @@ markerFolder: ./Sopron/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Sopron|Sopron]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Sopron.public|Sopron.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Sopron.internal|Sopron.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Sopron.protect|Sopron.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Sopron.private|Sopron.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Sopron.personal|Sopron.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Sopron.secret|Sopron.secret]] 
+
+### [Sopron.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-SopronSopron.public.md) 
+
+### [Sopron.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-SopronSopron.internal.md) 
+
+### [Sopron.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-SopronSopron.protect.md) 
+
+### [Sopron.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-SopronSopron.private.md) 
+
+### [Sopron.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-SopronSopron.personal.md) 
+
+### [Sopron.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\counties~Gyor-Moson-SopronSopron.secret.md)
 

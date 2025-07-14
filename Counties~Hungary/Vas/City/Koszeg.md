@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Koszeg|Koszeg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Koszeg.public|Koszeg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Koszeg.internal|Koszeg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Koszeg.protect|Koszeg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Koszeg.private|Koszeg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Koszeg.personal|Koszeg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Koszeg.secret|Koszeg.secret]] 
+
+### [Koszeg.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityKoszeg.public.md) 
+
+### [Koszeg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityKoszeg.internal.md) 
+
+### [Koszeg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityKoszeg.protect.md) 
+
+### [Koszeg.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityKoszeg.private.md) 
+
+### [Koszeg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityKoszeg.personal.md) 
+
+### [Koszeg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityKoszeg.secret.md)
+

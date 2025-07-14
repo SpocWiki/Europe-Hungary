@@ -40,11 +40,16 @@ markerFolder: ./Zala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala|Zala]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.public|Zala.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.internal|Zala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.protect|Zala.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.private|Zala.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.personal|Zala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.secret|Zala.secret]] 
+
+### [Zala.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryZala.public.md) 
+
+### [Zala.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryZala.internal.md) 
+
+### [Zala.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryZala.protect.md) 
+
+### [Zala.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryZala.private.md) 
+
+### [Zala.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryZala.personal.md) 
+
+### [Zala.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryZala.secret.md)
 

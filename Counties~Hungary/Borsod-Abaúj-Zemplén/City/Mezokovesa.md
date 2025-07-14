@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Mezokovesa|Mezokovesa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Mezokovesa.public|Mezokovesa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Mezokovesa.internal|Mezokovesa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Mezokovesa.protect|Mezokovesa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Mezokovesa.private|Mezokovesa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Mezokovesa.personal|Mezokovesa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Mezokovesa.secret|Mezokovesa.secret]] 
+
+### [Mezokovesa.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.public.md) 
+
+### [Mezokovesa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.internal.md) 
+
+### [Mezokovesa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.protect.md) 
+
+### [Mezokovesa.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.private.md) 
+
+### [Mezokovesa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.personal.md) 
+
+### [Mezokovesa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.secret.md)
+

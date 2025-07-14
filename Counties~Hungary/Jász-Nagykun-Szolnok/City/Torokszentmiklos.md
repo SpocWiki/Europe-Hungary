@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Torokszentmiklos|Torokszentmiklos]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Torokszentmiklos.public|Torokszentmiklos.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Torokszentmiklos.internal|Torokszentmiklos.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Torokszentmiklos.protect|Torokszentmiklos.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Torokszentmiklos.private|Torokszentmiklos.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Torokszentmiklos.personal|Torokszentmiklos.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Torokszentmiklos.secret|Torokszentmiklos.secret]] 
+
+### [Torokszentmiklos.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.public.md) 
+
+### [Torokszentmiklos.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.internal.md) 
+
+### [Torokszentmiklos.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.protect.md) 
+
+### [Torokszentmiklos.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.private.md) 
+
+### [Torokszentmiklos.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.personal.md) 
+
+### [Torokszentmiklos.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.secret.md)
+

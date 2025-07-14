@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Karcag|Karcag]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Karcag.public|Karcag.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Karcag.internal|Karcag.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Karcag.protect|Karcag.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Karcag.private|Karcag.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Karcag.personal|Karcag.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Karcag.secret|Karcag.secret]] 
+
+### [Karcag.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityKarcag.public.md) 
+
+### [Karcag.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityKarcag.internal.md) 
+
+### [Karcag.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityKarcag.protect.md) 
+
+### [Karcag.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityKarcag.private.md) 
+
+### [Karcag.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityKarcag.personal.md) 
+
+### [Karcag.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityKarcag.secret.md)
+

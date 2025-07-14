@@ -40,11 +40,16 @@ markerFolder: ./Szombathely/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Szombathely|Szombathely]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Szombathely.public|Szombathely.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szombathely.internal|Szombathely.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Szombathely.protect|Szombathely.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Szombathely.private|Szombathely.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szombathely.personal|Szombathely.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Szombathely.secret|Szombathely.secret]] 
+
+### [Szombathely.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~VasSzombathely.public.md) 
+
+### [Szombathely.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~VasSzombathely.internal.md) 
+
+### [Szombathely.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~VasSzombathely.protect.md) 
+
+### [Szombathely.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~VasSzombathely.private.md) 
+
+### [Szombathely.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~VasSzombathely.personal.md) 
+
+### [Szombathely.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~VasSzombathely.secret.md)
 

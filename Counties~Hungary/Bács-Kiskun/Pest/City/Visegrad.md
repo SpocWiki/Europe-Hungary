@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Visegrad|Visegrad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Visegrad.public|Visegrad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Visegrad.internal|Visegrad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Visegrad.protect|Visegrad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Visegrad.private|Visegrad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Visegrad.personal|Visegrad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Visegrad.secret|Visegrad.secret]] 
+
+### [Visegrad.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityVisegrad.public.md) 
+
+### [Visegrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityVisegrad.internal.md) 
+
+### [Visegrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityVisegrad.protect.md) 
+
+### [Visegrad.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityVisegrad.private.md) 
+
+### [Visegrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityVisegrad.personal.md) 
+
+### [Visegrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Pest\CityVisegrad.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Kecskemet|Kecskemet]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Kecskemet.public|Kecskemet.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Kecskemet.internal|Kecskemet.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Kecskemet.protect|Kecskemet.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Kecskemet.private|Kecskemet.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Kecskemet.personal|Kecskemet.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Kecskemet.secret|Kecskemet.secret]] 
+
+### [Kecskemet.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.public.md) 
+
+### [Kecskemet.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.internal.md) 
+
+### [Kecskemet.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.protect.md) 
+
+### [Kecskemet.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.private.md) 
+
+### [Kecskemet.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.personal.md) 
+
+### [Kecskemet.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.secret.md)
+

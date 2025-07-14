@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Zalaegerszeg|Zalaegerszeg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Zalaegerszeg.public|Zalaegerszeg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Zalaegerszeg.internal|Zalaegerszeg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Zalaegerszeg.protect|Zalaegerszeg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Zalaegerszeg.private|Zalaegerszeg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Zalaegerszeg.personal|Zalaegerszeg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Zalaegerszeg.secret|Zalaegerszeg.secret]] 
+
+### [Zalaegerszeg.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.public.md) 
+
+### [Zalaegerszeg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.internal.md) 
+
+### [Zalaegerszeg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.protect.md) 
+
+### [Zalaegerszeg.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.private.md) 
+
+### [Zalaegerszeg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.personal.md) 
+
+### [Zalaegerszeg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.secret.md)
+

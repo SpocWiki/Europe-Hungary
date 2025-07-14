@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Szecseny|Szecseny]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Szecseny.public|Szecseny.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Szecseny.internal|Szecseny.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Szecseny.protect|Szecseny.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Szecseny.private|Szecseny.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Szecseny.personal|Szecseny.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Szecseny.secret|Szecseny.secret]] 
+
+### [Szecseny.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CitySzecseny.public.md) 
+
+### [Szecseny.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CitySzecseny.internal.md) 
+
+### [Szecseny.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CitySzecseny.protect.md) 
+
+### [Szecseny.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CitySzecseny.private.md) 
+
+### [Szecseny.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CitySzecseny.personal.md) 
+
+### [Szecseny.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CitySzecseny.secret.md)
+

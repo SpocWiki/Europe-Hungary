@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Siofok|Siofok]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Siofok.public|Siofok.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Siofok.internal|Siofok.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Siofok.protect|Siofok.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Siofok.private|Siofok.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Siofok.personal|Siofok.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Siofok.secret|Siofok.secret]] 
+
+### [Siofok.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CitySiofok.public.md) 
+
+### [Siofok.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CitySiofok.internal.md) 
+
+### [Siofok.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CitySiofok.protect.md) 
+
+### [Siofok.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CitySiofok.private.md) 
+
+### [Siofok.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CitySiofok.personal.md) 
+
+### [Siofok.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CitySiofok.secret.md)
+

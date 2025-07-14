@@ -40,11 +40,16 @@ markerFolder: ./Békéscsaba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba|Békéscsaba]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.public|Békéscsaba.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.internal|Békéscsaba.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.protect|Békéscsaba.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.private|Békéscsaba.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.personal|Békéscsaba.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.secret|Békéscsaba.secret]] 
+
+### [Békéscsaba.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\counties~BékésBékéscsaba.public.md) 
+
+### [Békéscsaba.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\counties~BékésBékéscsaba.internal.md) 
+
+### [Békéscsaba.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\counties~BékésBékéscsaba.protect.md) 
+
+### [Békéscsaba.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\counties~BékésBékéscsaba.private.md) 
+
+### [Békéscsaba.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\counties~BékésBékéscsaba.personal.md) 
+
+### [Békéscsaba.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\counties~BékésBékéscsaba.secret.md)
 

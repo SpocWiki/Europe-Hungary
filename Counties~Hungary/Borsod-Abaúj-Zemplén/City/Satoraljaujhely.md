@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Satoraljaujhely|Satoraljaujhely]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Satoraljaujhely.public|Satoraljaujhely.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Satoraljaujhely.internal|Satoraljaujhely.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Satoraljaujhely.protect|Satoraljaujhely.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Satoraljaujhely.private|Satoraljaujhely.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Satoraljaujhely.personal|Satoraljaujhely.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Satoraljaujhely.secret|Satoraljaujhely.secret]] 
+
+### [Satoraljaujhely.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.public.md) 
+
+### [Satoraljaujhely.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.internal.md) 
+
+### [Satoraljaujhely.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.protect.md) 
+
+### [Satoraljaujhely.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.private.md) 
+
+### [Satoraljaujhely.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.personal.md) 
+
+### [Satoraljaujhely.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Ujpest|Ujpest]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Ujpest.public|Ujpest.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Ujpest.internal|Ujpest.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Ujpest.protect|Ujpest.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Ujpest.private|Ujpest.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Ujpest.personal|Ujpest.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Ujpest.secret|Ujpest.secret]] 
+
+### [Ujpest.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Budapest\CityUjpest.public.md) 
+
+### [Ujpest.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Budapest\CityUjpest.internal.md) 
+
+### [Ujpest.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Budapest\CityUjpest.protect.md) 
+
+### [Ujpest.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Budapest\CityUjpest.private.md) 
+
+### [Ujpest.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Budapest\CityUjpest.personal.md) 
+
+### [Ujpest.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Budapest\CityUjpest.secret.md)
+
