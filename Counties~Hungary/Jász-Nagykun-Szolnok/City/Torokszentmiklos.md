@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torokszentmiklos.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.public.md) 
+### [Torokszentmiklos](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.md) 
 
-### [Torokszentmiklos.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.internal.md) 
+### [Torokszentmiklos.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.public.md) 
 
-### [Torokszentmiklos.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.protect.md) 
+### [Torokszentmiklos.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.internal.md) 
 
-### [Torokszentmiklos.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.private.md) 
+### [Torokszentmiklos.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.protect.md) 
 
-### [Torokszentmiklos.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.personal.md) 
+### [Torokszentmiklos.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.private.md) 
 
-### [Torokszentmiklos.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\CityTorokszentmiklos.secret.md)
+### [Torokszentmiklos.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.personal.md) 
+
+### [Torokszentmiklos.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.secret.md)
 

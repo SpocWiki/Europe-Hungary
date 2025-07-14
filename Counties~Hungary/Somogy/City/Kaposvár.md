@@ -41,15 +41,17 @@ markerFolder: ./Kaposvár/
 
 ## Confidential Links & Embeds: 
 
-### [Kaposvár.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvár.public.md) 
+### [Kaposvár](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvár.md) 
 
-### [Kaposvár.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvár.internal.md) 
+### [Kaposvár.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvár.public.md) 
 
-### [Kaposvár.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvár.protect.md) 
+### [Kaposvár.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvár.internal.md) 
 
-### [Kaposvár.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvár.private.md) 
+### [Kaposvár.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvár.protect.md) 
 
-### [Kaposvár.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvár.personal.md) 
+### [Kaposvár.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvár.private.md) 
 
-### [Kaposvár.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvár.secret.md)
+### [Kaposvár.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvár.personal.md) 
+
+### [Kaposvár.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvár.secret.md)
 

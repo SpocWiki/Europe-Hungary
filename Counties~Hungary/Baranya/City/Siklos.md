@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siklos.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.public.md) 
+### [Siklos](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.md) 
 
-### [Siklos.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.internal.md) 
+### [Siklos.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.public.md) 
 
-### [Siklos.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.protect.md) 
+### [Siklos.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.internal.md) 
 
-### [Siklos.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.private.md) 
+### [Siklos.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.protect.md) 
 
-### [Siklos.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.personal.md) 
+### [Siklos.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.private.md) 
 
-### [Siklos.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySiklos.secret.md)
+### [Siklos.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.personal.md) 
+
+### [Siklos.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.secret.md)
 

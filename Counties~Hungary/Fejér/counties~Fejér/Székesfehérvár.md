@@ -41,15 +41,17 @@ markerFolder: ./Székesfehérvár/
 
 ## Confidential Links & Embeds: 
 
-### [Székesfehérvár.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérSzékesfehérvár.public.md) 
+### [Székesfehérvár](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.md) 
 
-### [Székesfehérvár.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérSzékesfehérvár.internal.md) 
+### [Székesfehérvár.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.public.md) 
 
-### [Székesfehérvár.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérSzékesfehérvár.protect.md) 
+### [Székesfehérvár.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.internal.md) 
 
-### [Székesfehérvár.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérSzékesfehérvár.private.md) 
+### [Székesfehérvár.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.protect.md) 
 
-### [Székesfehérvár.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérSzékesfehérvár.personal.md) 
+### [Székesfehérvár.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.private.md) 
 
-### [Székesfehérvár.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérSzékesfehérvár.secret.md)
+### [Székesfehérvár.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.personal.md) 
+
+### [Székesfehérvár.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.secret.md)
 

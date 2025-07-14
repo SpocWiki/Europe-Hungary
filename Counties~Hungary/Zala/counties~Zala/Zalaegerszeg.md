@@ -41,15 +41,17 @@ markerFolder: ./Zalaegerszeg/
 
 ## Confidential Links & Embeds: 
 
-### [Zalaegerszeg.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaZalaegerszeg.public.md) 
+### [Zalaegerszeg](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg.md) 
 
-### [Zalaegerszeg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaZalaegerszeg.internal.md) 
+### [Zalaegerszeg.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg.public.md) 
 
-### [Zalaegerszeg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaZalaegerszeg.protect.md) 
+### [Zalaegerszeg.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg.internal.md) 
 
-### [Zalaegerszeg.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaZalaegerszeg.private.md) 
+### [Zalaegerszeg.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg.protect.md) 
 
-### [Zalaegerszeg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaZalaegerszeg.personal.md) 
+### [Zalaegerszeg.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg.private.md) 
 
-### [Zalaegerszeg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~ZalaZalaegerszeg.secret.md)
+### [Zalaegerszeg.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg.personal.md) 
+
+### [Zalaegerszeg.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg.secret.md)
 

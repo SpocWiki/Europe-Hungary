@@ -41,15 +41,17 @@ markerFolder: ./Miskolc/
 
 ## Confidential Links & Embeds: 
 
-### [Miskolc.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.public.md) 
+### [Miskolc](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.md) 
 
-### [Miskolc.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.internal.md) 
+### [Miskolc.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.public.md) 
 
-### [Miskolc.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.protect.md) 
+### [Miskolc.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.internal.md) 
 
-### [Miskolc.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.private.md) 
+### [Miskolc.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.protect.md) 
 
-### [Miskolc.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.personal.md) 
+### [Miskolc.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.private.md) 
 
-### [Miskolc.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\counties~Borsod-Abaúj-ZemplénMiskolc.secret.md)
+### [Miskolc.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.personal.md) 
+
+### [Miskolc.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.secret.md)
 

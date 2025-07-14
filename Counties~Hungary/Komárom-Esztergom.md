@@ -41,15 +41,17 @@ markerFolder: ./Komárom-Esztergom/
 
 ## Confidential Links & Embeds: 
 
-### [Komárom-Esztergom.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryKomárom-Esztergom.public.md) 
+### [Komárom-Esztergom](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.md) 
 
-### [Komárom-Esztergom.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryKomárom-Esztergom.internal.md) 
+### [Komárom-Esztergom.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.public.md) 
 
-### [Komárom-Esztergom.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryKomárom-Esztergom.protect.md) 
+### [Komárom-Esztergom.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.internal.md) 
 
-### [Komárom-Esztergom.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryKomárom-Esztergom.private.md) 
+### [Komárom-Esztergom.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.protect.md) 
 
-### [Komárom-Esztergom.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryKomárom-Esztergom.personal.md) 
+### [Komárom-Esztergom.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.private.md) 
 
-### [Komárom-Esztergom.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryKomárom-Esztergom.secret.md)
+### [Komárom-Esztergom.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.personal.md) 
+
+### [Komárom-Esztergom.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.secret.md)
 

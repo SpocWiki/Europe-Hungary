@@ -41,15 +41,17 @@ markerFolder: ./Eger/
 
 ## Confidential Links & Embeds: 
 
-### [Eger.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~HevesEger.public.md) 
+### [Eger](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger.md) 
 
-### [Eger.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~HevesEger.internal.md) 
+### [Eger.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger.public.md) 
 
-### [Eger.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~HevesEger.protect.md) 
+### [Eger.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger.internal.md) 
 
-### [Eger.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~HevesEger.private.md) 
+### [Eger.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger.protect.md) 
 
-### [Eger.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~HevesEger.personal.md) 
+### [Eger.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger.private.md) 
 
-### [Eger.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~HevesEger.secret.md)
+### [Eger.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger.personal.md) 
+
+### [Eger.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger.secret.md)
 

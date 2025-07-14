@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Szekszard.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.public.md) 
+### [Szekszard](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd/City/Szekszard.md) 
 
-### [Szekszard.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.internal.md) 
+### [Szekszard.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd/City/Szekszard.public.md) 
 
-### [Szekszard.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.protect.md) 
+### [Szekszard.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd/City/Szekszard.internal.md) 
 
-### [Szekszard.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.private.md) 
+### [Szekszard.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd/City/Szekszard.protect.md) 
 
-### [Szekszard.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.personal.md) 
+### [Szekszard.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd/City/Szekszard.private.md) 
 
-### [Szekszard.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Tolna\counties~Tolna\Szekszárd\CitySzekszard.secret.md)
+### [Szekszard.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd/City/Szekszard.personal.md) 
+
+### [Szekszard.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd/City/Szekszard.secret.md)
 

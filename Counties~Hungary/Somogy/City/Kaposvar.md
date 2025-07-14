@@ -37,15 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaposvar.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvar.public.md) 
+### [Kaposvar](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.md) 
 
-### [Kaposvar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvar.internal.md) 
+### [Kaposvar.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.public.md) 
 
-### [Kaposvar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvar.protect.md) 
+### [Kaposvar.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.internal.md) 
 
-### [Kaposvar.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvar.private.md) 
+### [Kaposvar.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.protect.md) 
 
-### [Kaposvar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvar.personal.md) 
+### [Kaposvar.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.private.md) 
 
-### [Kaposvar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Somogy\CityKaposvar.secret.md)
+### [Kaposvar.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.personal.md) 
+
+### [Kaposvar.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.secret.md)
 

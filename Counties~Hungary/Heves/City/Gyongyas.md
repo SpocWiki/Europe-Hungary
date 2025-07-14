@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gyongyas.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityGyongyas.public.md) 
+### [Gyongyas](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.md) 
 
-### [Gyongyas.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityGyongyas.internal.md) 
+### [Gyongyas.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.public.md) 
 
-### [Gyongyas.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityGyongyas.protect.md) 
+### [Gyongyas.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.internal.md) 
 
-### [Gyongyas.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityGyongyas.private.md) 
+### [Gyongyas.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.protect.md) 
 
-### [Gyongyas.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityGyongyas.personal.md) 
+### [Gyongyas.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.private.md) 
 
-### [Gyongyas.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityGyongyas.secret.md)
+### [Gyongyas.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.personal.md) 
+
+### [Gyongyas.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.secret.md)
 

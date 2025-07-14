@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hereny.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.public.md) 
+### [Hereny](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.md) 
 
-### [Hereny.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.internal.md) 
+### [Hereny.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.public.md) 
 
-### [Hereny.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.protect.md) 
+### [Hereny.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.internal.md) 
 
-### [Hereny.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.private.md) 
+### [Hereny.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.protect.md) 
 
-### [Hereny.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.personal.md) 
+### [Hereny.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.private.md) 
 
-### [Hereny.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CityHereny.secret.md)
+### [Hereny.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.personal.md) 
+
+### [Hereny.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.secret.md)
 

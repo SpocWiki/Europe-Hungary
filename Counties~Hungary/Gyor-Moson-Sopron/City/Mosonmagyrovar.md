@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mosonmagyrovar.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\CityMosonmagyrovar.public.md) 
+### [Mosonmagyrovar](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/City/Mosonmagyrovar.md) 
 
-### [Mosonmagyrovar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\CityMosonmagyrovar.internal.md) 
+### [Mosonmagyrovar.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/City/Mosonmagyrovar.public.md) 
 
-### [Mosonmagyrovar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\CityMosonmagyrovar.protect.md) 
+### [Mosonmagyrovar.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/City/Mosonmagyrovar.internal.md) 
 
-### [Mosonmagyrovar.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\CityMosonmagyrovar.private.md) 
+### [Mosonmagyrovar.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/City/Mosonmagyrovar.protect.md) 
 
-### [Mosonmagyrovar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\CityMosonmagyrovar.personal.md) 
+### [Mosonmagyrovar.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/City/Mosonmagyrovar.private.md) 
 
-### [Mosonmagyrovar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Gyor-Moson-Sopron\CityMosonmagyrovar.secret.md)
+### [Mosonmagyrovar.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/City/Mosonmagyrovar.personal.md) 
+
+### [Mosonmagyrovar.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/City/Mosonmagyrovar.secret.md)
 

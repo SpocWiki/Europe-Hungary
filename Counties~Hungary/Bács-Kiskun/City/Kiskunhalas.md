@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kiskunhalas.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskunhalas.public.md) 
+### [Kiskunhalas](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Kiskunhalas.md) 
 
-### [Kiskunhalas.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskunhalas.internal.md) 
+### [Kiskunhalas.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Kiskunhalas.public.md) 
 
-### [Kiskunhalas.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskunhalas.protect.md) 
+### [Kiskunhalas.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Kiskunhalas.internal.md) 
 
-### [Kiskunhalas.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskunhalas.private.md) 
+### [Kiskunhalas.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Kiskunhalas.protect.md) 
 
-### [Kiskunhalas.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskunhalas.personal.md) 
+### [Kiskunhalas.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Kiskunhalas.private.md) 
 
-### [Kiskunhalas.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\CityKiskunhalas.secret.md)
+### [Kiskunhalas.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Kiskunhalas.personal.md) 
+
+### [Kiskunhalas.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Kiskunhalas.secret.md)
 

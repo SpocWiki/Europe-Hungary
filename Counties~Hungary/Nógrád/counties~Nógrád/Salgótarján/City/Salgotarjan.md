@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salgotarjan.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.public.md) 
+### [Salgotarjan](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján/City/Salgotarjan.md) 
 
-### [Salgotarjan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.internal.md) 
+### [Salgotarjan.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján/City/Salgotarjan.public.md) 
 
-### [Salgotarjan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.protect.md) 
+### [Salgotarjan.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján/City/Salgotarjan.internal.md) 
 
-### [Salgotarjan.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.private.md) 
+### [Salgotarjan.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján/City/Salgotarjan.protect.md) 
 
-### [Salgotarjan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.personal.md) 
+### [Salgotarjan.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján/City/Salgotarjan.private.md) 
 
-### [Salgotarjan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~Nógrád\Salgótarján\CitySalgotarjan.secret.md)
+### [Salgotarjan.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján/City/Salgotarjan.personal.md) 
+
+### [Salgotarjan.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján/City/Salgotarjan.secret.md)
 

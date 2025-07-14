@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fuenfkirchen=Pecs.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.public.md) 
+### [Fuenfkirchen=Pecs](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Fuenfkirchen=Pecs.md) 
 
-### [Fuenfkirchen=Pecs.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.internal.md) 
+### [Fuenfkirchen=Pecs.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Fuenfkirchen=Pecs.public.md) 
 
-### [Fuenfkirchen=Pecs.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.protect.md) 
+### [Fuenfkirchen=Pecs.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Fuenfkirchen=Pecs.internal.md) 
 
-### [Fuenfkirchen=Pecs.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.private.md) 
+### [Fuenfkirchen=Pecs.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Fuenfkirchen=Pecs.protect.md) 
 
-### [Fuenfkirchen=Pecs.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.personal.md) 
+### [Fuenfkirchen=Pecs.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Fuenfkirchen=Pecs.private.md) 
 
-### [Fuenfkirchen=Pecs.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~Baranya\Pécs\CityFuenfkirchen=Pecs.secret.md)
+### [Fuenfkirchen=Pecs.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Fuenfkirchen=Pecs.personal.md) 
+
+### [Fuenfkirchen=Pecs.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Fuenfkirchen=Pecs.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Pécs/
 
 ## Confidential Links & Embeds: 
 
-### [Pécs.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~BaranyaPécs.public.md) 
+### [Pécs](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs.md) 
 
-### [Pécs.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~BaranyaPécs.internal.md) 
+### [Pécs.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs.public.md) 
 
-### [Pécs.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~BaranyaPécs.protect.md) 
+### [Pécs.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs.internal.md) 
 
-### [Pécs.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~BaranyaPécs.private.md) 
+### [Pécs.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs.protect.md) 
 
-### [Pécs.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~BaranyaPécs.personal.md) 
+### [Pécs.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs.private.md) 
 
-### [Pécs.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\counties~BaranyaPécs.secret.md)
+### [Pécs.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs.personal.md) 
+
+### [Pécs.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs.secret.md)
 

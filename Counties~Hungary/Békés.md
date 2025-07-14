@@ -41,15 +41,17 @@ markerFolder: ./Békés/
 
 ## Confidential Links & Embeds: 
 
-### [Békés.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBékés.public.md) 
+### [Békés](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés.md) 
 
-### [Békés.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBékés.internal.md) 
+### [Békés.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés.public.md) 
 
-### [Békés.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBékés.protect.md) 
+### [Békés.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés.internal.md) 
 
-### [Békés.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBékés.private.md) 
+### [Békés.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés.protect.md) 
 
-### [Békés.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBékés.personal.md) 
+### [Békés.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés.private.md) 
 
-### [Békés.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBékés.secret.md)
+### [Békés.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés.personal.md) 
+
+### [Békés.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés.secret.md)
 

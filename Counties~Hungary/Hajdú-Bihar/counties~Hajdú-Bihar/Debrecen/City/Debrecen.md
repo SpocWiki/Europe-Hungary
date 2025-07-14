@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Debrecen.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.public.md) 
+### [Debrecen](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.md) 
 
-### [Debrecen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.internal.md) 
+### [Debrecen.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.public.md) 
 
-### [Debrecen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.protect.md) 
+### [Debrecen.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.internal.md) 
 
-### [Debrecen.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.private.md) 
+### [Debrecen.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.protect.md) 
 
-### [Debrecen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.personal.md) 
+### [Debrecen.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.private.md) 
 
-### [Debrecen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityDebrecen.secret.md)
+### [Debrecen.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.personal.md) 
+
+### [Debrecen.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.secret.md)
 

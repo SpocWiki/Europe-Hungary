@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hodmezovasarhely.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.public.md) 
+### [Hodmezovasarhely](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely/City/Hodmezovasarhely.md) 
 
-### [Hodmezovasarhely.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.internal.md) 
+### [Hodmezovasarhely.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely/City/Hodmezovasarhely.public.md) 
 
-### [Hodmezovasarhely.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.protect.md) 
+### [Hodmezovasarhely.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely/City/Hodmezovasarhely.internal.md) 
 
-### [Hodmezovasarhely.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.private.md) 
+### [Hodmezovasarhely.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely/City/Hodmezovasarhely.protect.md) 
 
-### [Hodmezovasarhely.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.personal.md) 
+### [Hodmezovasarhely.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely/City/Hodmezovasarhely.private.md) 
 
-### [Hodmezovasarhely.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Hódmezôvásárhely\CityHodmezovasarhely.secret.md)
+### [Hodmezovasarhely.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely/City/Hodmezovasarhely.personal.md) 
+
+### [Hodmezovasarhely.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely/City/Hodmezovasarhely.secret.md)
 

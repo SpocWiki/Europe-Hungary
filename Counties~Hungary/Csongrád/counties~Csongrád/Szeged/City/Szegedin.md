@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Szegedin.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.public.md) 
+### [Szegedin](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged/City/Szegedin.md) 
 
-### [Szegedin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.internal.md) 
+### [Szegedin.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged/City/Szegedin.public.md) 
 
-### [Szegedin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.protect.md) 
+### [Szegedin.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged/City/Szegedin.internal.md) 
 
-### [Szegedin.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.private.md) 
+### [Szegedin.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged/City/Szegedin.protect.md) 
 
-### [Szegedin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.personal.md) 
+### [Szegedin.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged/City/Szegedin.private.md) 
 
-### [Szegedin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~Csongrád\Szeged\CitySzegedin.secret.md)
+### [Szegedin.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged/City/Szegedin.personal.md) 
+
+### [Szegedin.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged/City/Szegedin.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vasvar.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityVasvar.public.md) 
+### [Vasvar](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Vasvar.md) 
 
-### [Vasvar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityVasvar.internal.md) 
+### [Vasvar.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Vasvar.public.md) 
 
-### [Vasvar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityVasvar.protect.md) 
+### [Vasvar.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Vasvar.internal.md) 
 
-### [Vasvar.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityVasvar.private.md) 
+### [Vasvar.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Vasvar.protect.md) 
 
-### [Vasvar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityVasvar.personal.md) 
+### [Vasvar.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Vasvar.private.md) 
 
-### [Vasvar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\CityVasvar.secret.md)
+### [Vasvar.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Vasvar.personal.md) 
+
+### [Vasvar.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Vasvar.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kecskemet.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.public.md) 
+### [Kecskemet](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Kecskemet.md) 
 
-### [Kecskemet.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.internal.md) 
+### [Kecskemet.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Kecskemet.public.md) 
 
-### [Kecskemet.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.protect.md) 
+### [Kecskemet.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Kecskemet.internal.md) 
 
-### [Kecskemet.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.private.md) 
+### [Kecskemet.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Kecskemet.protect.md) 
 
-### [Kecskemet.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.personal.md) 
+### [Kecskemet.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Kecskemet.private.md) 
 
-### [Kecskemet.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\counties~Bács-Kiskun\Kecskemét\CityKecskemet.secret.md)
+### [Kecskemet.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Kecskemet.personal.md) 
+
+### [Kecskemet.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Kecskemet.secret.md)
 

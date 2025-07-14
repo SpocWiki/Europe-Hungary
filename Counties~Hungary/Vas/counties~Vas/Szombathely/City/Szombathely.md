@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Szombathely.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.public.md) 
+### [Szombathely](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Szombathely.md) 
 
-### [Szombathely.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.internal.md) 
+### [Szombathely.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Szombathely.public.md) 
 
-### [Szombathely.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.protect.md) 
+### [Szombathely.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Szombathely.internal.md) 
 
-### [Szombathely.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.private.md) 
+### [Szombathely.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Szombathely.protect.md) 
 
-### [Szombathely.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.personal.md) 
+### [Szombathely.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Szombathely.private.md) 
 
-### [Szombathely.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Vas\counties~Vas\Szombathely\CitySzombathely.secret.md)
+### [Szombathely.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Szombathely.personal.md) 
+
+### [Szombathely.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Szombathely.secret.md)
 

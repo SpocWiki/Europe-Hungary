@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Berettyo-Ujfalu.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\CityBerettyo-Ujfalu.public.md) 
+### [Berettyo-Ujfalu](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.md) 
 
-### [Berettyo-Ujfalu.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\CityBerettyo-Ujfalu.internal.md) 
+### [Berettyo-Ujfalu.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.public.md) 
 
-### [Berettyo-Ujfalu.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\CityBerettyo-Ujfalu.protect.md) 
+### [Berettyo-Ujfalu.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.internal.md) 
 
-### [Berettyo-Ujfalu.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\CityBerettyo-Ujfalu.private.md) 
+### [Berettyo-Ujfalu.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.protect.md) 
 
-### [Berettyo-Ujfalu.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\CityBerettyo-Ujfalu.personal.md) 
+### [Berettyo-Ujfalu.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.private.md) 
 
-### [Berettyo-Ujfalu.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\CityBerettyo-Ujfalu.secret.md)
+### [Berettyo-Ujfalu.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.personal.md) 
+
+### [Berettyo-Ujfalu.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.secret.md)
 

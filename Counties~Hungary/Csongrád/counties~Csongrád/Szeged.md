@@ -41,15 +41,17 @@ markerFolder: ./Szeged/
 
 ## Confidential Links & Embeds: 
 
-### [Szeged.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.public.md) 
+### [Szeged](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.md) 
 
-### [Szeged.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.internal.md) 
+### [Szeged.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.public.md) 
 
-### [Szeged.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.protect.md) 
+### [Szeged.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.internal.md) 
 
-### [Szeged.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.private.md) 
+### [Szeged.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.protect.md) 
 
-### [Szeged.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.personal.md) 
+### [Szeged.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.private.md) 
 
-### [Szeged.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádSzeged.secret.md)
+### [Szeged.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.personal.md) 
+
+### [Szeged.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.secret.md)
 

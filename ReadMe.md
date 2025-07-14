@@ -130,15 +130,17 @@ Capital :: [[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\HungaryReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\HungaryReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\HungaryReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\HungaryReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\HungaryReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\HungaryReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/ReadMe.secret.md)
 

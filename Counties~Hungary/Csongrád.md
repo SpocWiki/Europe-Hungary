@@ -41,15 +41,17 @@ markerFolder: ./Csongrád/
 
 ## Confidential Links & Embeds: 
 
-### [Csongrád.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryCsongrád.public.md) 
+### [Csongrád](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád.md) 
 
-### [Csongrád.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryCsongrád.internal.md) 
+### [Csongrád.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád.public.md) 
 
-### [Csongrád.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryCsongrád.protect.md) 
+### [Csongrád.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád.internal.md) 
 
-### [Csongrád.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryCsongrád.private.md) 
+### [Csongrád.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád.protect.md) 
 
-### [Csongrád.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryCsongrád.personal.md) 
+### [Csongrád.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád.private.md) 
 
-### [Csongrád.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryCsongrád.secret.md)
+### [Csongrád.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád.personal.md) 
+
+### [Csongrád.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád.secret.md)
 

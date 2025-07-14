@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sszarvas.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.public.md) 
+### [Sszarvas](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Sszarvas.md) 
 
-### [Sszarvas.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.internal.md) 
+### [Sszarvas.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Sszarvas.public.md) 
 
-### [Sszarvas.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.protect.md) 
+### [Sszarvas.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Sszarvas.internal.md) 
 
-### [Sszarvas.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.private.md) 
+### [Sszarvas.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Sszarvas.protect.md) 
 
-### [Sszarvas.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.personal.md) 
+### [Sszarvas.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Sszarvas.private.md) 
 
-### [Sszarvas.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CitySszarvas.secret.md)
+### [Sszarvas.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Sszarvas.personal.md) 
+
+### [Sszarvas.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Sszarvas.secret.md)
 

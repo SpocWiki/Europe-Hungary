@@ -41,15 +41,17 @@ markerFolder: ./Szabolcs-Szatmár-Bereg/
 
 ## Confidential Links & Embeds: 
 
-### [Szabolcs-Szatmár-Bereg.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySzabolcs-Szatmár-Bereg.public.md) 
+### [Szabolcs-Szatmár-Bereg](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.md) 
 
-### [Szabolcs-Szatmár-Bereg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySzabolcs-Szatmár-Bereg.internal.md) 
+### [Szabolcs-Szatmár-Bereg.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.public.md) 
 
-### [Szabolcs-Szatmár-Bereg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySzabolcs-Szatmár-Bereg.protect.md) 
+### [Szabolcs-Szatmár-Bereg.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.internal.md) 
 
-### [Szabolcs-Szatmár-Bereg.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySzabolcs-Szatmár-Bereg.private.md) 
+### [Szabolcs-Szatmár-Bereg.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.protect.md) 
 
-### [Szabolcs-Szatmár-Bereg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySzabolcs-Szatmár-Bereg.personal.md) 
+### [Szabolcs-Szatmár-Bereg.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.private.md) 
 
-### [Szabolcs-Szatmár-Bereg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungarySzabolcs-Szatmár-Bereg.secret.md)
+### [Szabolcs-Szatmár-Bereg.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.personal.md) 
+
+### [Szabolcs-Szatmár-Bereg.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.secret.md)
 

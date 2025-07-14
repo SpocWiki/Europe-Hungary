@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Szigetvar.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySzigetvar.public.md) 
+### [Szigetvar](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Szigetvar.md) 
 
-### [Szigetvar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySzigetvar.internal.md) 
+### [Szigetvar.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Szigetvar.public.md) 
 
-### [Szigetvar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySzigetvar.protect.md) 
+### [Szigetvar.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Szigetvar.internal.md) 
 
-### [Szigetvar.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySzigetvar.private.md) 
+### [Szigetvar.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Szigetvar.protect.md) 
 
-### [Szigetvar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySzigetvar.personal.md) 
+### [Szigetvar.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Szigetvar.private.md) 
 
-### [Szigetvar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CitySzigetvar.secret.md)
+### [Szigetvar.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Szigetvar.personal.md) 
+
+### [Szigetvar.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Szigetvar.secret.md)
 

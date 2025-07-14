@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Magyarhertelend.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.public.md) 
+### [Magyarhertelend](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.md) 
 
-### [Magyarhertelend.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.internal.md) 
+### [Magyarhertelend.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.public.md) 
 
-### [Magyarhertelend.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.protect.md) 
+### [Magyarhertelend.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.internal.md) 
 
-### [Magyarhertelend.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.private.md) 
+### [Magyarhertelend.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.protect.md) 
 
-### [Magyarhertelend.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.personal.md) 
+### [Magyarhertelend.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.private.md) 
 
-### [Magyarhertelend.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Baranya\CityMagyarhertelend.secret.md)
+### [Magyarhertelend.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.personal.md) 
+
+### [Magyarhertelend.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.secret.md)
 

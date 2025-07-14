@@ -41,15 +41,17 @@ markerFolder: ./Heves/
 
 ## Confidential Links & Embeds: 
 
-### [Heves.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHeves.public.md) 
+### [Heves](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves.md) 
 
-### [Heves.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHeves.internal.md) 
+### [Heves.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves.public.md) 
 
-### [Heves.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHeves.protect.md) 
+### [Heves.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves.internal.md) 
 
-### [Heves.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHeves.private.md) 
+### [Heves.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves.protect.md) 
 
-### [Heves.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHeves.personal.md) 
+### [Heves.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves.private.md) 
 
-### [Heves.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHeves.secret.md)
+### [Heves.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves.personal.md) 
+
+### [Heves.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves.secret.md)
 

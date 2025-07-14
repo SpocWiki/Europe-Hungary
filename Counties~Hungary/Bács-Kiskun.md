@@ -41,15 +41,17 @@ markerFolder: ./Bács-Kiskun/
 
 ## Confidential Links & Embeds: 
 
-### [Bács-Kiskun.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBács-Kiskun.public.md) 
+### [Bács-Kiskun](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun.md) 
 
-### [Bács-Kiskun.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBács-Kiskun.internal.md) 
+### [Bács-Kiskun.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun.public.md) 
 
-### [Bács-Kiskun.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBács-Kiskun.protect.md) 
+### [Bács-Kiskun.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun.internal.md) 
 
-### [Bács-Kiskun.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBács-Kiskun.private.md) 
+### [Bács-Kiskun.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun.protect.md) 
 
-### [Bács-Kiskun.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBács-Kiskun.personal.md) 
+### [Bács-Kiskun.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun.private.md) 
 
-### [Bács-Kiskun.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryBács-Kiskun.secret.md)
+### [Bács-Kiskun.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun.personal.md) 
+
+### [Bács-Kiskun.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Dunaújváros/
 
 ## Confidential Links & Embeds: 
 
-### [Dunaújváros.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.public.md) 
+### [Dunaújváros](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.md) 
 
-### [Dunaújváros.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.internal.md) 
+### [Dunaújváros.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.public.md) 
 
-### [Dunaújváros.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.protect.md) 
+### [Dunaújváros.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.internal.md) 
 
-### [Dunaújváros.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.private.md) 
+### [Dunaújváros.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.protect.md) 
 
-### [Dunaújváros.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.personal.md) 
+### [Dunaújváros.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.private.md) 
 
-### [Dunaújváros.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Fejér\counties~FejérDunaújváros.secret.md)
+### [Dunaújváros.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.personal.md) 
+
+### [Dunaújváros.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.secret.md)
 

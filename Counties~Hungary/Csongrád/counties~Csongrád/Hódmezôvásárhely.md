@@ -41,15 +41,17 @@ markerFolder: ./Hódmezôvásárhely/
 
 ## Confidential Links & Embeds: 
 
-### [Hódmezôvásárhely.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádHódmezôvásárhely.public.md) 
+### [Hódmezôvásárhely](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.md) 
 
-### [Hódmezôvásárhely.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádHódmezôvásárhely.internal.md) 
+### [Hódmezôvásárhely.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.public.md) 
 
-### [Hódmezôvásárhely.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádHódmezôvásárhely.protect.md) 
+### [Hódmezôvásárhely.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.internal.md) 
 
-### [Hódmezôvásárhely.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádHódmezôvásárhely.private.md) 
+### [Hódmezôvásárhely.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.protect.md) 
 
-### [Hódmezôvásárhely.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádHódmezôvásárhely.personal.md) 
+### [Hódmezôvásárhely.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.private.md) 
 
-### [Hódmezôvásárhely.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Csongrád\counties~CsongrádHódmezôvásárhely.secret.md)
+### [Hódmezôvásárhely.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.personal.md) 
+
+### [Hódmezôvásárhely.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.secret.md)
 

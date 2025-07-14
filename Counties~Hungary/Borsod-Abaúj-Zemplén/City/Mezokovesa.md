@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mezokovesa.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.public.md) 
+### [Mezokovesa](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.md) 
 
-### [Mezokovesa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.internal.md) 
+### [Mezokovesa.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.public.md) 
 
-### [Mezokovesa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.protect.md) 
+### [Mezokovesa.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.internal.md) 
 
-### [Mezokovesa.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.private.md) 
+### [Mezokovesa.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.protect.md) 
 
-### [Mezokovesa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.personal.md) 
+### [Mezokovesa.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.private.md) 
 
-### [Mezokovesa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CityMezokovesa.secret.md)
+### [Mezokovesa.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.personal.md) 
+
+### [Mezokovesa.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.secret.md)
 

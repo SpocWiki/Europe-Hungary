@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Szolnok.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-Szolnok\Szolnok\CitySzolnok.public.md) 
+### [Szolnok](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.md) 
 
-### [Szolnok.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-Szolnok\Szolnok\CitySzolnok.internal.md) 
+### [Szolnok.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.public.md) 
 
-### [Szolnok.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-Szolnok\Szolnok\CitySzolnok.protect.md) 
+### [Szolnok.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.internal.md) 
 
-### [Szolnok.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-Szolnok\Szolnok\CitySzolnok.private.md) 
+### [Szolnok.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.protect.md) 
 
-### [Szolnok.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-Szolnok\Szolnok\CitySzolnok.personal.md) 
+### [Szolnok.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.private.md) 
 
-### [Szolnok.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Jász-Nagykun-Szolnok\counties~Jász-Nagykun-Szolnok\Szolnok\CitySzolnok.secret.md)
+### [Szolnok.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.personal.md) 
+
+### [Szolnok.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.secret.md)
 

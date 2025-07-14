@@ -41,15 +41,17 @@ markerFolder: ./Salgótarján/
 
 ## Confidential Links & Embeds: 
 
-### [Salgótarján.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~NógrádSalgótarján.public.md) 
+### [Salgótarján](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján.md) 
 
-### [Salgótarján.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~NógrádSalgótarján.internal.md) 
+### [Salgótarján.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján.public.md) 
 
-### [Salgótarján.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~NógrádSalgótarján.protect.md) 
+### [Salgótarján.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján.internal.md) 
 
-### [Salgótarján.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~NógrádSalgótarján.private.md) 
+### [Salgótarján.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján.protect.md) 
 
-### [Salgótarján.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~NógrádSalgótarján.personal.md) 
+### [Salgótarján.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján.private.md) 
 
-### [Salgótarján.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Nógrád\counties~NógrádSalgótarján.secret.md)
+### [Salgótarján.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján.personal.md) 
+
+### [Salgótarján.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád/counties~Nógrád/Salgótarján.secret.md)
 

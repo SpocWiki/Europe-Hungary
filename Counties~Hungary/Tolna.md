@@ -41,15 +41,17 @@ markerFolder: ./Tolna/
 
 ## Confidential Links & Embeds: 
 
-### [Tolna.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryTolna.public.md) 
+### [Tolna](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.md) 
 
-### [Tolna.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryTolna.internal.md) 
+### [Tolna.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.public.md) 
 
-### [Tolna.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryTolna.protect.md) 
+### [Tolna.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.internal.md) 
 
-### [Tolna.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryTolna.private.md) 
+### [Tolna.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.protect.md) 
 
-### [Tolna.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryTolna.personal.md) 
+### [Tolna.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.private.md) 
 
-### [Tolna.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryTolna.secret.md)
+### [Tolna.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.personal.md) 
+
+### [Tolna.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Hajdú-Bihar/
 
 ## Confidential Links & Embeds: 
 
-### [Hajdú-Bihar.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHajdú-Bihar.public.md) 
+### [Hajdú-Bihar](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar.md) 
 
-### [Hajdú-Bihar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHajdú-Bihar.internal.md) 
+### [Hajdú-Bihar.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar.public.md) 
 
-### [Hajdú-Bihar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHajdú-Bihar.protect.md) 
+### [Hajdú-Bihar.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar.internal.md) 
 
-### [Hajdú-Bihar.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHajdú-Bihar.private.md) 
+### [Hajdú-Bihar.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar.protect.md) 
 
-### [Hajdú-Bihar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHajdú-Bihar.personal.md) 
+### [Hajdú-Bihar.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar.private.md) 
 
-### [Hajdú-Bihar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryHajdú-Bihar.secret.md)
+### [Hajdú-Bihar.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar.personal.md) 
+
+### [Hajdú-Bihar.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar.secret.md)
 

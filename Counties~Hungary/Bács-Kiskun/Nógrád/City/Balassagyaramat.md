@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Balassagyaramat.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.public.md) 
+### [Balassagyaramat](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Nógrád/City/Balassagyaramat.md) 
 
-### [Balassagyaramat.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.internal.md) 
+### [Balassagyaramat.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Nógrád/City/Balassagyaramat.public.md) 
 
-### [Balassagyaramat.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.protect.md) 
+### [Balassagyaramat.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Nógrád/City/Balassagyaramat.internal.md) 
 
-### [Balassagyaramat.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.private.md) 
+### [Balassagyaramat.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Nógrád/City/Balassagyaramat.protect.md) 
 
-### [Balassagyaramat.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.personal.md) 
+### [Balassagyaramat.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Nógrád/City/Balassagyaramat.private.md) 
 
-### [Balassagyaramat.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-Kiskun\Nógrád\CityBalassagyaramat.secret.md)
+### [Balassagyaramat.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Nógrád/City/Balassagyaramat.personal.md) 
+
+### [Balassagyaramat.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Nógrád/City/Balassagyaramat.secret.md)
 

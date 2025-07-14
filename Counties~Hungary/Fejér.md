@@ -41,15 +41,17 @@ markerFolder: ./Fejér/
 
 ## Confidential Links & Embeds: 
 
-### [Fejér.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryFejér.public.md) 
+### [Fejér](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér.md) 
 
-### [Fejér.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryFejér.internal.md) 
+### [Fejér.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér.public.md) 
 
-### [Fejér.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryFejér.protect.md) 
+### [Fejér.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér.internal.md) 
 
-### [Fejér.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryFejér.private.md) 
+### [Fejér.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér.protect.md) 
 
-### [Fejér.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryFejér.personal.md) 
+### [Fejér.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér.private.md) 
 
-### [Fejér.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~HungaryFejér.secret.md)
+### [Fejér.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér.personal.md) 
+
+### [Fejér.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér.secret.md)
 

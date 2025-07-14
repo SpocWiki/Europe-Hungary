@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hatvan.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityHatvan.public.md) 
+### [Hatvan](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Hatvan.md) 
 
-### [Hatvan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityHatvan.internal.md) 
+### [Hatvan.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Hatvan.public.md) 
 
-### [Hatvan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityHatvan.protect.md) 
+### [Hatvan.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Hatvan.internal.md) 
 
-### [Hatvan.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityHatvan.private.md) 
+### [Hatvan.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Hatvan.protect.md) 
 
-### [Hatvan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityHatvan.personal.md) 
+### [Hatvan.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Hatvan.private.md) 
 
-### [Hatvan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\CityHatvan.secret.md)
+### [Hatvan.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Hatvan.personal.md) 
+
+### [Hatvan.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Hatvan.secret.md)
 

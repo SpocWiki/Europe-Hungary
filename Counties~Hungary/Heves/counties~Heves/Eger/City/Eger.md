@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eger.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.public.md) 
+### [Eger](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger/City/Eger.md) 
 
-### [Eger.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.internal.md) 
+### [Eger.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger/City/Eger.public.md) 
 
-### [Eger.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.protect.md) 
+### [Eger.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger/City/Eger.internal.md) 
 
-### [Eger.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.private.md) 
+### [Eger.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger/City/Eger.protect.md) 
 
-### [Eger.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.personal.md) 
+### [Eger.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger/City/Eger.private.md) 
 
-### [Eger.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Heves\counties~Heves\Eger\CityEger.secret.md)
+### [Eger.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger/City/Eger.personal.md) 
+
+### [Eger.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/counties~Heves/Eger/City/Eger.secret.md)
 

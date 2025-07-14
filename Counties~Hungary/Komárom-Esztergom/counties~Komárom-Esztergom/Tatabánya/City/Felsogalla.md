@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Felsogalla.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.public.md) 
+### [Felsogalla](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya/City/Felsogalla.md) 
 
-### [Felsogalla.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.internal.md) 
+### [Felsogalla.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya/City/Felsogalla.public.md) 
 
-### [Felsogalla.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.protect.md) 
+### [Felsogalla.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya/City/Felsogalla.internal.md) 
 
-### [Felsogalla.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.private.md) 
+### [Felsogalla.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya/City/Felsogalla.protect.md) 
 
-### [Felsogalla.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.personal.md) 
+### [Felsogalla.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya/City/Felsogalla.private.md) 
 
-### [Felsogalla.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Komárom-Esztergom\counties~Komárom-Esztergom\Tatabánya\CityFelsogalla.secret.md)
+### [Felsogalla.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya/City/Felsogalla.personal.md) 
+
+### [Felsogalla.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya/City/Felsogalla.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Satoraljaujhely.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.public.md) 
+### [Satoraljaujhely](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Satoraljaujhely.md) 
 
-### [Satoraljaujhely.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.internal.md) 
+### [Satoraljaujhely.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Satoraljaujhely.public.md) 
 
-### [Satoraljaujhely.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.protect.md) 
+### [Satoraljaujhely.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Satoraljaujhely.internal.md) 
 
-### [Satoraljaujhely.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.private.md) 
+### [Satoraljaujhely.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Satoraljaujhely.protect.md) 
 
-### [Satoraljaujhely.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.personal.md) 
+### [Satoraljaujhely.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Satoraljaujhely.private.md) 
 
-### [Satoraljaujhely.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Borsod-Abaúj-Zemplén\CitySatoraljaujhely.secret.md)
+### [Satoraljaujhely.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Satoraljaujhely.personal.md) 
+
+### [Satoraljaujhely.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Satoraljaujhely.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nagykanizsa.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Nagykanizsa\CityNagykanizsa.public.md) 
+### [Nagykanizsa](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.md) 
 
-### [Nagykanizsa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Nagykanizsa\CityNagykanizsa.internal.md) 
+### [Nagykanizsa.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.public.md) 
 
-### [Nagykanizsa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Nagykanizsa\CityNagykanizsa.protect.md) 
+### [Nagykanizsa.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.internal.md) 
 
-### [Nagykanizsa.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Nagykanizsa\CityNagykanizsa.private.md) 
+### [Nagykanizsa.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.protect.md) 
 
-### [Nagykanizsa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Nagykanizsa\CityNagykanizsa.personal.md) 
+### [Nagykanizsa.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.private.md) 
 
-### [Nagykanizsa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Nagykanizsa\CityNagykanizsa.secret.md)
+### [Nagykanizsa.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.personal.md) 
+
+### [Nagykanizsa.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.secret.md)
 

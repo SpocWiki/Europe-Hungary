@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Keszthely.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.public.md) 
+### [Keszthely](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Keszthely.md) 
 
-### [Keszthely.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.internal.md) 
+### [Keszthely.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Keszthely.public.md) 
 
-### [Keszthely.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.protect.md) 
+### [Keszthely.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Keszthely.internal.md) 
 
-### [Keszthely.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.private.md) 
+### [Keszthely.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Keszthely.protect.md) 
 
-### [Keszthely.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.personal.md) 
+### [Keszthely.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Keszthely.private.md) 
 
-### [Keszthely.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Veszprém\CityKeszthely.secret.md)
+### [Keszthely.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Keszthely.personal.md) 
+
+### [Keszthely.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Keszthely.secret.md)
 

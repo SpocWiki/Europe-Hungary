@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Halduboszormeny.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.public.md) 
+### [Halduboszormeny](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Halduboszormeny.md) 
 
-### [Halduboszormeny.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.internal.md) 
+### [Halduboszormeny.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Halduboszormeny.public.md) 
 
-### [Halduboszormeny.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.protect.md) 
+### [Halduboszormeny.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Halduboszormeny.internal.md) 
 
-### [Halduboszormeny.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.private.md) 
+### [Halduboszormeny.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Halduboszormeny.protect.md) 
 
-### [Halduboszormeny.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.personal.md) 
+### [Halduboszormeny.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Halduboszormeny.private.md) 
 
-### [Halduboszormeny.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Hajdú-Bihar\counties~Hajdú-Bihar\Debrecen\CityHalduboszormeny.secret.md)
+### [Halduboszormeny.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Halduboszormeny.personal.md) 
+
+### [Halduboszormeny.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Halduboszormeny.secret.md)
 

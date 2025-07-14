@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zalaegerszeg.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.public.md) 
+### [Zalaegerszeg](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.md) 
 
-### [Zalaegerszeg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.internal.md) 
+### [Zalaegerszeg.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.public.md) 
 
-### [Zalaegerszeg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.protect.md) 
+### [Zalaegerszeg.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.internal.md) 
 
-### [Zalaegerszeg.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.private.md) 
+### [Zalaegerszeg.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.protect.md) 
 
-### [Zalaegerszeg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.personal.md) 
+### [Zalaegerszeg.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.private.md) 
 
-### [Zalaegerszeg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Zala\counties~Zala\Zalaegerszeg\CityZalaegerszeg.secret.md)
+### [Zalaegerszeg.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.personal.md) 
+
+### [Zalaegerszeg.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.secret.md)
 

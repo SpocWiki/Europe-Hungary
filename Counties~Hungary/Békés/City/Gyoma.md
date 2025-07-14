@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gyoma.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CityGyoma.public.md) 
+### [Gyoma](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyoma.md) 
 
-### [Gyoma.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CityGyoma.internal.md) 
+### [Gyoma.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyoma.public.md) 
 
-### [Gyoma.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CityGyoma.protect.md) 
+### [Gyoma.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyoma.internal.md) 
 
-### [Gyoma.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CityGyoma.private.md) 
+### [Gyoma.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyoma.protect.md) 
 
-### [Gyoma.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CityGyoma.personal.md) 
+### [Gyoma.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyoma.private.md) 
 
-### [Gyoma.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Békés\CityGyoma.secret.md)
+### [Gyoma.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyoma.personal.md) 
+
+### [Gyoma.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyoma.secret.md)
 

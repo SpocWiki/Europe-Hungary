@@ -41,15 +41,17 @@ markerFolder: ./Pest/
 
 ## Confidential Links & Embeds: 
 
-### [Pest.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-KiskunPest.public.md) 
+### [Pest](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest.md) 
 
-### [Pest.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-KiskunPest.internal.md) 
+### [Pest.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest.public.md) 
 
-### [Pest.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-KiskunPest.protect.md) 
+### [Pest.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest.internal.md) 
 
-### [Pest.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-KiskunPest.private.md) 
+### [Pest.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest.protect.md) 
 
-### [Pest.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-KiskunPest.personal.md) 
+### [Pest.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest.private.md) 
 
-### [Pest.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Bács-KiskunPest.secret.md)
+### [Pest.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest.personal.md) 
+
+### [Pest.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest.secret.md)
 

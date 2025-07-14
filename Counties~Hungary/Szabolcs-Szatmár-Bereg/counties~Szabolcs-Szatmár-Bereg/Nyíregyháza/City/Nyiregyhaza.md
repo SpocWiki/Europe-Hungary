@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nyiregyhaza.public](/_public/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.public.md) 
+### [Nyiregyhaza](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.md) 
 
-### [Nyiregyhaza.internal](/_internal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.internal.md) 
+### [Nyiregyhaza.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.public.md) 
 
-### [Nyiregyhaza.protect](/_protect/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.protect.md) 
+### [Nyiregyhaza.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.internal.md) 
 
-### [Nyiregyhaza.private](/_private/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.private.md) 
+### [Nyiregyhaza.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.protect.md) 
 
-### [Nyiregyhaza.personal](/_personal/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.personal.md) 
+### [Nyiregyhaza.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.private.md) 
 
-### [Nyiregyhaza.secret](/_secret/\Earth\Continent\Europe\Europe~East\Hungary\Counties~Hungary\Szabolcs-Szatmár-Bereg\counties~Szabolcs-Szatmár-Bereg\Nyíregyháza\CityNyiregyhaza.secret.md)
+### [Nyiregyhaza.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.personal.md) 
+
+### [Nyiregyhaza.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.secret.md)
 
