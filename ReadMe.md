@@ -1,34 +1,35 @@
 ---
 location:
-- 47.2796
-- 19.1508
+  - 47.2796
+  - 19.1508
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26921
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Hungary
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Hungary
-- Hungría
-- Hongrie
-- هنغاريا
-- 匈牙利
-- Венгрия
+  - Hungary
+  - Hungría
+  - Hongrie
+  - هنغاريا
+  - 匈牙利
+  - Венгрия
 Languages:
-- hu-HU
+  - hu-HU
 ---
 
 
