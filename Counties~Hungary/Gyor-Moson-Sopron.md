@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Gyor-Moson-Sopron
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Gyor-Moson-Sopron/
 markerFolder: ./Gyor-Moson-Sopron/

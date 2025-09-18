@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Borsod-Abaúj-Zemplén
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Borsod-Abaúj-Zemplén/
 markerFolder: ./Borsod-Abaúj-Zemplén/

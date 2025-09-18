@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Szabolcs-Szatmár-Bereg
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Szabolcs-Szatmár-Bereg/
 markerFolder: ./Szabolcs-Szatmár-Bereg/

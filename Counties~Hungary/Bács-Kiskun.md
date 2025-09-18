@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Bács-Kiskun
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bács-Kiskun/
 markerFolder: ./Bács-Kiskun/
