@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q11819
 architectural_style: "[[_Standards/WikiData/WD~Gothic_Revival,186363]]"
 architect: "[[_Standards/WikiData/WD~Imre_Steindl,337876]]"
-location: "[[_Standards/WikiData/WD~Lipótváros,598014]]"
+locations: "[[_Standards/WikiData/WD~Lipótváros,598014]]"
 occupant: "[[_Standards/WikiData/WD~National_Assembly,648716]]"
 located_on_street: "[[_Standards/WikiData/WD~Kossuth_Square,920826]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Budapest_District_V,1042732]]"
