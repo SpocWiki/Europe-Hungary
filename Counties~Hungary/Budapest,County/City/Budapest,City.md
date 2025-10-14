@@ -195,7 +195,7 @@ State ::
 Country :: [[Hungary]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Budapest,1781|WD~Budapest,1781]] 
 
