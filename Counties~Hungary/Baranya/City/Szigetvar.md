@@ -1,16 +1,19 @@
 ---
-location: [46.05,17.82] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Szigetvar
+location:
+  - 46.05
+  - 17.82
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34712
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

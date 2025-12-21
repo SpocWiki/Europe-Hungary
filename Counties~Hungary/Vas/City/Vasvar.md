@@ -1,16 +1,19 @@
 ---
-location: [47.05,16.8] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Vasvar
+location:
+  - 47.05
+  - 16.8
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35223
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

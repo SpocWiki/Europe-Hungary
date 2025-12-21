@@ -1,16 +1,19 @@
 ---
-location: [46.22,18.13] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Magyarhertelend
+location:
+  - 46.22
+  - 18.13
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32217
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

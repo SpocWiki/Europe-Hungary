@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Borsod-Abaúj-Zemplén
 location:
   - 48.1
   - 21.2
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Borsod-Abaúj-Zemplén
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Borsod-Abaúj-Zemplén

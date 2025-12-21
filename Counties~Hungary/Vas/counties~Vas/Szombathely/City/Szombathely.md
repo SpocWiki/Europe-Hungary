@@ -1,16 +1,19 @@
 ---
-location: [47.23,16.62] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Szombathely
+location:
+  - 47.23
+  - 16.62
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34714
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

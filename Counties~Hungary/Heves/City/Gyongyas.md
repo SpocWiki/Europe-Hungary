@@ -1,16 +1,19 @@
 ---
-location: [47.78,19.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Gyongyas
+location:
+  - 47.78
+  - 19.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30655
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Jász-Nagykun-Szolnok
 location:
   - 47.2
   - 20.6
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Jász-Nagykun-Szolnok
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Jász-Nagykun-Szolnok

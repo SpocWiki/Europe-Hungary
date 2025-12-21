@@ -1,16 +1,19 @@
 ---
-location: [47.18,20.43] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Torokszentmiklos
+location:
+  - 47.18
+  - 20.43
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34914
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

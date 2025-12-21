@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Hungary
+  - Hungría
+  - Hongrie
+  - هنغاريا
+  - 匈牙利
+  - Венгрия
+  - ReadMe
 location:
   - 47.2796
   - 19.1508
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Hungary
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Hungary
-  - Hungría
-  - Hongrie
-  - هنغاريا
-  - 匈牙利
-  - Венгрия
+publishDate: ''
+expiryDate: ''
 Languages:
   - hu-HU
 ---

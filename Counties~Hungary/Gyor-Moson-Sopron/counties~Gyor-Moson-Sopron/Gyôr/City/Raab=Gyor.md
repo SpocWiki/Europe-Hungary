@@ -1,16 +1,19 @@
 ---
-location: [47.7,17.65] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Raab=Gyor
+location:
+  - 47.7
+  - 17.65
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33587
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

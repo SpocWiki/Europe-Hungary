@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Gyor-Moson-Sopron
 location:
   - 47.7
   - 17.3
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Gyor-Moson-Sopron
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Gyor-Moson-Sopron
