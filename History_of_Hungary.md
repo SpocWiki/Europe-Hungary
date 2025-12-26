@@ -1,6 +1,19 @@
 ---
 aliases:
 has_id_wikidata: Q199960
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Q10522400,10522400]]"
+  - "[[_Standards/WikiData/WD~Template_History_of_Hungary,10950369]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Hungary,28]]"
+country: "[[_Standards/WikiData/WD~Hungary,28]]"
+Commons_category: History of Hungary
 ---
 
 # [[History_of_Hungary]] 
