@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2000-06 
 aliases:
 has_id_wikidata: Q11819
 architectural_style: "[[_Standards/WikiData/WD~Gothic_Revival,186363]]"
