@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.42
 dv_has_place_latitude: 47.2
-dv_name: Szekesfehervar=Stuhlweissenburg
+dv_has_name_: Szekesfehervar=Stuhlweissenburg
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

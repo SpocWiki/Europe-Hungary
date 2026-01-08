@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.82
 dv_has_place_latitude: 48.1
-dv_name: Salgotarjan
+dv_has_name_: Salgotarjan
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

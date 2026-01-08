@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.63
 dv_has_place_latitude: 47.53
-dv_name: Debrecen
+dv_has_name_: Debrecen
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

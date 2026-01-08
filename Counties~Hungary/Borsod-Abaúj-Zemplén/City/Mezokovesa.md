@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.65
 dv_has_place_latitude: 47.82
-dv_name: Mezokovesa
+dv_has_name_: Mezokovesa
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

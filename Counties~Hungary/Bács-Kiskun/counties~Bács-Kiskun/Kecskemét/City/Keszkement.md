@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.7
 dv_has_place_latitude: 46.9
-dv_name: Keszkement
+dv_has_name_: Keszkement
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

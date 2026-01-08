@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.65
 dv_has_place_latitude: 47.7
-dv_name: Raab=Gyor
+dv_has_name_: Raab=Gyor
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

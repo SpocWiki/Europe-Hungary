@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.65
 dv_has_place_latitude: 48.4
-dv_name: Satoraljaujhely
+dv_has_name_: Satoraljaujhely
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

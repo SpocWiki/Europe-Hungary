@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.78
 dv_has_place_latitude: 48.1
-dv_name: Miskolc
+dv_has_name_: Miskolc
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

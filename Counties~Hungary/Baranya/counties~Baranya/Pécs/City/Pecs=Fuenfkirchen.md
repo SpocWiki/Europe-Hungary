@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.23
 dv_has_place_latitude: 46.08
-dv_name: Pecs=Fuenfkirchen
+dv_has_name_: Pecs=Fuenfkirchen
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

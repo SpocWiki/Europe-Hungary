@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.8
 dv_has_place_latitude: 47.05
-dv_name: Vasvar
+dv_has_name_: Vasvar
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

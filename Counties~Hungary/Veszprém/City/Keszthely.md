@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.25
 dv_has_place_latitude: 46.78
-dv_name: Keszthely
+dv_has_name_: Keszthely
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.13
 dv_has_place_latitude: 47.73
-dv_name: Komarom
+dv_has_name_: Komarom
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.48
 dv_has_place_latitude: 47.33
-dv_name: Papa
+dv_has_name_: Papa
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

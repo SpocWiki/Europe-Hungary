@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.38
 dv_has_place_latitude: 47.9
-dv_name: Eger
+dv_has_name_: Eger
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

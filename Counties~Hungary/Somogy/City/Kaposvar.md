@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.9
 dv_has_place_latitude: 46.37
-dv_name: Kaposvar
+dv_has_name_: Kaposvar
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

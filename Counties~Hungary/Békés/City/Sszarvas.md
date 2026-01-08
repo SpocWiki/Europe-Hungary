@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.55
 dv_has_place_latitude: 46.87
-dv_name: Sszarvas
+dv_has_name_: Sszarvas
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

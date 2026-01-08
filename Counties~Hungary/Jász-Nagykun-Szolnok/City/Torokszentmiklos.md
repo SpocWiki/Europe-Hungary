@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.43
 dv_has_place_latitude: 47.18
-dv_name: Torokszentmiklos
+dv_has_name_: Torokszentmiklos
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

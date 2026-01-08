@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.93
 dv_has_place_latitude: 47.78
-dv_name: Gyongyas
+dv_has_name_: Gyongyas
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

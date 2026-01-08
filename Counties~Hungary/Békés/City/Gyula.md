@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.27
 dv_has_place_latitude: 46.65
-dv_name: Gyula
+dv_has_name_: Gyula
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

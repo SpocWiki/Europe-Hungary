@@ -39,15 +39,13 @@ dv_ISO4217-currency_country_name: HUNGARY
 dv_Telephone: 36
 dv_Global: true
 dv_Global_Name: World
-dv_name: Hungary
-dv_name-en:
-  - Hungary
-  - Hungary
-dv_name-es: Hungría
-dv_name-fr: Hongrie
-dv_name-cn: 匈牙利
-dv_name-ar: هنغاريا
-dv_name-ru: Венгрия
+dv_has_name_: Hungary
+dv_has_name_en: Hungary
+dv_has_name_es: Hungría
+dv_has_name_fr: Hongrie
+dv_has_name_cn: 匈牙利
+dv_has_name_ar: هنغاريا
+dv_has_name_ru: Венгрия
 dv_CLDR_display_name: Hungary
 dv_UNTERM_English: Hungary
 dv_UNTERM_English_Formal: Hungary
@@ -84,7 +82,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 348
 dv_ISO2: HU
 dv_ISO3: HUN
-dv_name-de: Ungarn
+dv_has_name_de: Ungarn
 dv_Area-Total: 93030
 dv_Area-Land: 92340
 dv_Continent: "[[../../../Europe]]"
@@ -110,12 +108,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Hungary ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Hungary ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -174,8 +172,8 @@ geojsonFolder: .//
 markerFolder: .///
 ```
 
-[name-en::Hungary] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Hungary] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

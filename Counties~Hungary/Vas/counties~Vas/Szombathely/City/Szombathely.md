@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.62
 dv_has_place_latitude: 47.23
-dv_name: Szombathely
+dv_has_name_: Szombathely
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

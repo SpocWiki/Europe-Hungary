@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.27
 dv_has_place_latitude: 47.87
-dv_name: Mosonmagyrovar
+dv_has_name_: Mosonmagyrovar
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

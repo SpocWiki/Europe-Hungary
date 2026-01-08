@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.3
 dv_has_place_latitude: 48.07
-dv_name: Balassagyaramat
+dv_has_name_: Balassagyaramat
 dv_Country: "[[../../../../../Hungary]]"
 ---
 #is_a_/Place  

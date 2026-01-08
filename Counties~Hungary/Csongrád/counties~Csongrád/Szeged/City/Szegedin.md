@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.15
 dv_has_place_latitude: 46.27
-dv_name: Szegedin
+dv_has_name_: Szegedin
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

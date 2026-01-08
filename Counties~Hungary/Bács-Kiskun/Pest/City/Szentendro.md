@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.07
 dv_has_place_latitude: 47.68
-dv_name: Szentendro
+dv_has_name_: Szentendro
 dv_Country: "[[../../../../../Hungary]]"
 ---
 #is_a_/Place  

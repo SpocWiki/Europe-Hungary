@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.6
 dv_has_place_latitude: 47.7
-dv_name: Sopron
+dv_has_name_: Sopron
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

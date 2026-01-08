@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.53
 dv_has_place_latitude: 47.4
-dv_name: Koszeg
+dv_has_name_: Koszeg
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17
 dv_has_place_latitude: 46.47
-dv_name: Nagykanizsa
+dv_has_name_: Nagykanizsa
 dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  

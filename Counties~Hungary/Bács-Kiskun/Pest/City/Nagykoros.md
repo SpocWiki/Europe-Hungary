@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.78
 dv_has_place_latitude: 47.03
-dv_name: Nagykoros
+dv_has_name_: Nagykoros
 dv_Country: "[[../../../../../Hungary]]"
 ---
 #is_a_/Place  

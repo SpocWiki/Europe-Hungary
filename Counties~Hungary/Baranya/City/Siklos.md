@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.32
 dv_has_place_latitude: 45.85
-dv_name: Siklos
+dv_has_name_: Siklos
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

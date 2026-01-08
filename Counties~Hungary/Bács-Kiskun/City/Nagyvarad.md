@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.6
 dv_has_place_latitude: 47.05
-dv_name: Nagyvarad
+dv_has_name_: Nagyvarad
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

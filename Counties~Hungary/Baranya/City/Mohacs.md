@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.68
 dv_has_place_latitude: 45.98
-dv_name: Mohacs
+dv_has_name_: Mohacs
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

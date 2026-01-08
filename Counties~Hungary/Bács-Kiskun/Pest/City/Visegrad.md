@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.92
 dv_has_place_latitude: 47.8
-dv_name: Visegrad
+dv_has_name_: Visegrad
 dv_Country: "[[../../../../../Hungary]]"
 ---
 #is_a_/Place  

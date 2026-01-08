@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.08
 dv_has_place_latitude: 47.49
-dv_name: Budapest
+dv_has_name_: Budapest
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Budapest,1781|WD~Budapest,1781]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Budapest,1781|WD~Budapest,1781]]"
