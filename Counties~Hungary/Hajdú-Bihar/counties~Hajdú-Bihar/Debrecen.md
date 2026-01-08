@@ -40,17 +40,17 @@ markerFolder: ./Debrecen/
 
 ## Confidential Links & Embeds: 
 
-### [Debrecen](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen|Debrecen]] 
 
-### [Debrecen.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.public|Debrecen.public]] 
 
-### [Debrecen.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.internal|Debrecen.internal]] 
 
-### [Debrecen.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.protect|Debrecen.protect]] 
 
-### [Debrecen.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.private|Debrecen.private]] 
 
-### [Debrecen.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.personal|Debrecen.personal]] 
 
-### [Debrecen.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen.secret|Debrecen.secret]] 
 

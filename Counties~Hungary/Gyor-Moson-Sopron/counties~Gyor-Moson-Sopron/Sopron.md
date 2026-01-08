@@ -40,17 +40,17 @@ markerFolder: ./Sopron/
 
 ## Confidential Links & Embeds: 
 
-### [Sopron](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron|Sopron]] 
 
-### [Sopron.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.public|Sopron.public]] 
 
-### [Sopron.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.internal|Sopron.internal]] 
 
-### [Sopron.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.protect|Sopron.protect]] 
 
-### [Sopron.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.private|Sopron.private]] 
 
-### [Sopron.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.personal|Sopron.personal]] 
 
-### [Sopron.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron.secret|Sopron.secret]] 
 

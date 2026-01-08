@@ -40,17 +40,17 @@ markerFolder: ./Székesfehérvár/
 
 ## Confidential Links & Embeds: 
 
-### [Székesfehérvár](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár|Székesfehérvár]] 
 
-### [Székesfehérvár.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.public|Székesfehérvár.public]] 
 
-### [Székesfehérvár.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.internal|Székesfehérvár.internal]] 
 
-### [Székesfehérvár.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.protect|Székesfehérvár.protect]] 
 
-### [Székesfehérvár.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.private|Székesfehérvár.private]] 
 
-### [Székesfehérvár.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.personal|Székesfehérvár.personal]] 
 
-### [Székesfehérvár.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Székesfehérvár.secret|Székesfehérvár.secret]] 
 

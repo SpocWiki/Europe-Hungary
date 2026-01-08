@@ -40,17 +40,17 @@ markerFolder: ./Hódmezôvásárhely/
 
 ## Confidential Links & Embeds: 
 
-### [Hódmezôvásárhely](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely|Hódmezôvásárhely]] 
 
-### [Hódmezôvásárhely.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.public|Hódmezôvásárhely.public]] 
 
-### [Hódmezôvásárhely.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.internal|Hódmezôvásárhely.internal]] 
 
-### [Hódmezôvásárhely.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.protect|Hódmezôvásárhely.protect]] 
 
-### [Hódmezôvásárhely.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.private|Hódmezôvásárhely.private]] 
 
-### [Hódmezôvásárhely.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.personal|Hódmezôvásárhely.personal]] 
 
-### [Hódmezôvásárhely.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Hódmezôvásárhely.secret|Hódmezôvásárhely.secret]] 
 

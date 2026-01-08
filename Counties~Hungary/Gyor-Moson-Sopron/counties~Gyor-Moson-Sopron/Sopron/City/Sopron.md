@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34373
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.6
+dv_has_place_latitude: 47.7
+dv_name: Sopron
+dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.6] 
-[has_place_latitude::47.7] 
-[name::Sopron] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sopron](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron|Sopron]] 
 
-### [Sopron.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.public|Sopron.public]] 
 
-### [Sopron.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.internal|Sopron.internal]] 
 
-### [Sopron.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.protect|Sopron.protect]] 
 
-### [Sopron.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.private|Sopron.private]] 
 
-### [Sopron.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.personal|Sopron.personal]] 
 
-### [Sopron.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Sopron.secret|Sopron.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29684
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.15
+dv_has_place_latitude: 46.72
+dv_name: Csongrad
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.15] 
-[has_place_latitude::46.72] 
-[name::Csongrad] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Csongrad](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad|Csongrad]] 
 
-### [Csongrad.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.public|Csongrad.public]] 
 
-### [Csongrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.internal|Csongrad.internal]] 
 
-### [Csongrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.protect|Csongrad.protect]] 
 
-### [Csongrad.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.private|Csongrad.private]] 
 
-### [Csongrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.personal|Csongrad.personal]] 
 
-### [Csongrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/City/Csongrad.secret|Csongrad.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 31297
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.9
+dv_has_place_latitude: 46.37
+dv_name: Kaposvar
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.9] 
-[has_place_latitude::46.37] 
-[name::Kaposvar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaposvar](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar|Kaposvar]] 
 
-### [Kaposvar.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.public|Kaposvar.public]] 
 
-### [Kaposvar.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.internal|Kaposvar.internal]] 
 
-### [Kaposvar.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.protect|Kaposvar.protect]] 
 
-### [Kaposvar.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.private|Kaposvar.private]] 
 
-### [Kaposvar.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.personal|Kaposvar.personal]] 
 
-### [Kaposvar.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Somogy/City/Kaposvar.secret|Kaposvar.secret]] 
 

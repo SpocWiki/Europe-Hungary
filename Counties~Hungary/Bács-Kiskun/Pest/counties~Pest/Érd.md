@@ -39,17 +39,17 @@ markerFolder: ./Érd/
 
 ## Confidential Links & Embeds: 
 
-### [Érd](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd|Érd]] 
 
-### [Érd.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.public|Érd.public]] 
 
-### [Érd.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.internal|Érd.internal]] 
 
-### [Érd.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.protect|Érd.protect]] 
 
-### [Érd.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.private|Érd.private]] 
 
-### [Érd.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.personal|Érd.personal]] 
 
-### [Érd.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/counties~Pest/Érd.secret|Érd.secret]] 
 

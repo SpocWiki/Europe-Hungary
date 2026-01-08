@@ -14,11 +14,14 @@ instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
 facet_of: "[[_Standards/WikiData/WD~Hungary,28]]"
 country: "[[_Standards/WikiData/WD~Hungary,28]]"
 Commons_category: History of Hungary
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Hungary,199960]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Hungary,199960]]"
 ---
 
 # [[History_of_Hungary]] 
 
-#is_/same_as :: [[WD~History_of_Hungary,199960]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -51,4 +54,21 @@ Commons_category: History of Hungary
 > Austria-Hungary collapsed after World War I, and the subsequent Treaty of Trianon in 1920 established Hungary's current borders, resulting in the loss of 72% of its historical territory, 58% of its population, and 32% of its ethnic Hungarians. Two-thirds of territory of the Kingdom of Hungary was ceded to Czechoslovakia, the Kingdom of Romania, the Kingdom of Serbs, Croats and Slovenes, the First Austrian Republic, the Second Polish Republic and the Kingdom of Italy. A short-lived People's Republic was declared. It was followed by a restored Kingdom of Hungary but was governed by a regent, Miklós Horthy. He officially represented the Hungarian monarchy of Charles IV, Apostolic King of Hungary. Between 1938 and 1941, Hungary recovered part of her lost territories. During World War II Hungary came under German occupation in 1944, then under Soviet occupation until the end of the war. After World War II, the Second Hungarian Republic was established within Hungary's current-day borders as a socialist People's Republic, lasting from 1949 to the end of communism in Hungary in 1989. The Third Republic of Hungary was established under an amended version of the constitution of 1949, with a new constitution adopted in 2011. Hungary joined the European Union in 2004.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Hungary) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/History_of_Hungary|History_of_Hungary]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/History_of_Hungary.public|History_of_Hungary.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/History_of_Hungary.internal|History_of_Hungary.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/History_of_Hungary.protect|History_of_Hungary.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/History_of_Hungary.private|History_of_Hungary.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/History_of_Hungary.personal|History_of_Hungary.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/History_of_Hungary.secret|History_of_Hungary.secret]] 
 

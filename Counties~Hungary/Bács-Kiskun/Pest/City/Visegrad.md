@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35325
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.92
+dv_has_place_latitude: 47.8
+dv_name: Visegrad
+dv_Country: "[[../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.92] 
-[has_place_latitude::47.8] 
-[name::Visegrad] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Visegrad](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad|Visegrad]] 
 
-### [Visegrad.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.public|Visegrad.public]] 
 
-### [Visegrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.internal|Visegrad.internal]] 
 
-### [Visegrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.protect|Visegrad.protect]] 
 
-### [Visegrad.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.private|Visegrad.private]] 
 
-### [Visegrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.personal|Visegrad.personal]] 
 
-### [Visegrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Visegrad.secret|Visegrad.secret]] 
 

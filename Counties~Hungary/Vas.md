@@ -39,17 +39,17 @@ markerFolder: ./Vas/
 
 ## Confidential Links & Embeds: 
 
-### [Vas](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas|Vas]] 
 
-### [Vas.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.public|Vas.public]] 
 
-### [Vas.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.internal|Vas.internal]] 
 
-### [Vas.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.protect|Vas.protect]] 
 
-### [Vas.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.private|Vas.private]] 
 
-### [Vas.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.personal|Vas.personal]] 
 
-### [Vas.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas.secret|Vas.secret]] 
 

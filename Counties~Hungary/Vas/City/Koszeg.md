@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31592
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.53
+dv_has_place_latitude: 47.4
+dv_name: Koszeg
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.53] 
-[has_place_latitude::47.4] 
-[name::Koszeg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koszeg](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg|Koszeg]] 
 
-### [Koszeg.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.public|Koszeg.public]] 
 
-### [Koszeg.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.internal|Koszeg.internal]] 
 
-### [Koszeg.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.protect|Koszeg.protect]] 
 
-### [Koszeg.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.private|Koszeg.private]] 
 
-### [Koszeg.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.personal|Koszeg.personal]] 
 
-### [Koszeg.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/City/Koszeg.secret|Koszeg.secret]] 
 

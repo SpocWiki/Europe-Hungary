@@ -40,17 +40,17 @@ markerFolder: ./Dunaújváros/
 
 ## Confidential Links & Embeds: 
 
-### [Dunaújváros](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros|Dunaújváros]] 
 
-### [Dunaújváros.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.public|Dunaújváros.public]] 
 
-### [Dunaújváros.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.internal|Dunaújváros.internal]] 
 
-### [Dunaújváros.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.protect|Dunaújváros.protect]] 
 
-### [Dunaújváros.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.private|Dunaújváros.private]] 
 
-### [Dunaújváros.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.personal|Dunaújváros.personal]] 
 
-### [Dunaújváros.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Fejér/counties~Fejér/Dunaújváros.secret|Dunaújváros.secret]] 
 

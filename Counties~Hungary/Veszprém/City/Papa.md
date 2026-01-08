@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33239
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.48
+dv_has_place_latitude: 47.33
+dv_name: Papa
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.48] 
-[has_place_latitude::47.33] 
-[name::Papa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Papa](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa|Papa]] 
 
-### [Papa.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.public|Papa.public]] 
 
-### [Papa.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.internal|Papa.internal]] 
 
-### [Papa.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.protect|Papa.protect]] 
 
-### [Papa.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.private|Papa.private]] 
 
-### [Papa.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.personal|Papa.personal]] 
 
-### [Papa.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Papa.secret|Papa.secret]] 
 

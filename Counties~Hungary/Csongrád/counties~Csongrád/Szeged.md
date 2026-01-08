@@ -40,17 +40,17 @@ markerFolder: ./Szeged/
 
 ## Confidential Links & Embeds: 
 
-### [Szeged](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged|Szeged]] 
 
-### [Szeged.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.public|Szeged.public]] 
 
-### [Szeged.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.internal|Szeged.internal]] 
 
-### [Szeged.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.protect|Szeged.protect]] 
 
-### [Szeged.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.private|Szeged.private]] 
 
-### [Szeged.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.personal|Szeged.personal]] 
 
-### [Szeged.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Csongrád/counties~Csongrád/Szeged.secret|Szeged.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34710
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.07
+dv_has_place_latitude: 47.68
+dv_name: Szentendro
+dv_Country: "[[../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.07] 
-[has_place_latitude::47.68] 
-[name::Szentendro] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Szentendro](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro|Szentendro]] 
 
-### [Szentendro.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.public|Szentendro.public]] 
 
-### [Szentendro.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.internal|Szentendro.internal]] 
 
-### [Szentendro.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.protect|Szentendro.protect]] 
 
-### [Szentendro.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.private|Szentendro.private]] 
 
-### [Szentendro.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.personal|Szentendro.personal]] 
 
-### [Szentendro.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/Pest/City/Szentendro.secret|Szentendro.secret]] 
 

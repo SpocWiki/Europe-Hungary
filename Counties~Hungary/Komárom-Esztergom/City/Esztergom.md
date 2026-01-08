@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30080
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.75
+dv_has_place_latitude: 47.8
+dv_name: Esztergom
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.75] 
-[has_place_latitude::47.8] 
-[name::Esztergom] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Esztergom](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom|Esztergom]] 
 
-### [Esztergom.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.public|Esztergom.public]] 
 
-### [Esztergom.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.internal|Esztergom.internal]] 
 
-### [Esztergom.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.protect|Esztergom.protect]] 
 
-### [Esztergom.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.private|Esztergom.private]] 
 
-### [Esztergom.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.personal|Esztergom.personal]] 
 
-### [Esztergom.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/City/Esztergom.secret|Esztergom.secret]] 
 

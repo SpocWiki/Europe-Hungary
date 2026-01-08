@@ -40,17 +40,17 @@ markerFolder: ./Jász-Nagykun-Szolnok/
 
 ## Confidential Links & Embeds: 
 
-### [Jász-Nagykun-Szolnok](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok|Jász-Nagykun-Szolnok]] 
 
-### [Jász-Nagykun-Szolnok.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.public|Jász-Nagykun-Szolnok.public]] 
 
-### [Jász-Nagykun-Szolnok.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.internal|Jász-Nagykun-Szolnok.internal]] 
 
-### [Jász-Nagykun-Szolnok.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.protect|Jász-Nagykun-Szolnok.protect]] 
 
-### [Jász-Nagykun-Szolnok.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.private|Jász-Nagykun-Szolnok.private]] 
 
-### [Jász-Nagykun-Szolnok.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.personal|Jász-Nagykun-Szolnok.personal]] 
 
-### [Jász-Nagykun-Szolnok.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok.secret|Jász-Nagykun-Szolnok.secret]] 
 

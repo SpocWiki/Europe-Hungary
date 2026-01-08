@@ -40,17 +40,17 @@ markerFolder: ./Nagykanizsa/
 
 ## Confidential Links & Embeds: 
 
-### [Nagykanizsa](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa|Nagykanizsa]] 
 
-### [Nagykanizsa.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.public|Nagykanizsa.public]] 
 
-### [Nagykanizsa.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.internal|Nagykanizsa.internal]] 
 
-### [Nagykanizsa.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.protect|Nagykanizsa.protect]] 
 
-### [Nagykanizsa.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.private|Nagykanizsa.private]] 
 
-### [Nagykanizsa.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.personal|Nagykanizsa.personal]] 
 
-### [Nagykanizsa.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa.secret|Nagykanizsa.secret]] 
 

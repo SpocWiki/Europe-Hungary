@@ -40,17 +40,17 @@ markerFolder: ./Veszprém/
 
 ## Confidential Links & Embeds: 
 
-### [Veszprém](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém|Veszprém]] 
 
-### [Veszprém.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.public|Veszprém.public]] 
 
-### [Veszprém.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.internal|Veszprém.internal]] 
 
-### [Veszprém.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.protect|Veszprém.protect]] 
 
-### [Veszprém.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.private|Veszprém.private]] 
 
-### [Veszprém.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.personal|Veszprém.personal]] 
 
-### [Veszprém.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém.secret|Veszprém.secret]] 
 

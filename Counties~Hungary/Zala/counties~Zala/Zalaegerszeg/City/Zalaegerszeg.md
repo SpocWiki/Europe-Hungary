@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35774
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.85
+dv_has_place_latitude: 46.85
+dv_name: Zalaegerszeg
+dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.85] 
-[has_place_latitude::46.85] 
-[name::Zalaegerszeg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zalaegerszeg](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg|Zalaegerszeg]] 
 
-### [Zalaegerszeg.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.public|Zalaegerszeg.public]] 
 
-### [Zalaegerszeg.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.internal|Zalaegerszeg.internal]] 
 
-### [Zalaegerszeg.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.protect|Zalaegerszeg.protect]] 
 
-### [Zalaegerszeg.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.private|Zalaegerszeg.private]] 
 
-### [Zalaegerszeg.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.personal|Zalaegerszeg.personal]] 
 
-### [Zalaegerszeg.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Zalaegerszeg/City/Zalaegerszeg.secret|Zalaegerszeg.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Tolna/
 
 ## Confidential Links & Embeds: 
 
-### [Tolna](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna|Tolna]] 
 
-### [Tolna.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.public|Tolna.public]] 
 
-### [Tolna.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.internal|Tolna.internal]] 
 
-### [Tolna.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.protect|Tolna.protect]] 
 
-### [Tolna.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.private|Tolna.private]] 
 
-### [Tolna.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.personal|Tolna.personal]] 
 
-### [Tolna.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna.secret|Tolna.secret]] 
 

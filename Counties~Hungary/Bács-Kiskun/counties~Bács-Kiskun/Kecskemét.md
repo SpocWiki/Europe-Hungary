@@ -40,17 +40,17 @@ markerFolder: ./Kecskemét/
 
 ## Confidential Links & Embeds: 
 
-### [Kecskemét](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét|Kecskemét]] 
 
-### [Kecskemét.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.public|Kecskemét.public]] 
 
-### [Kecskemét.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.internal|Kecskemét.internal]] 
 
-### [Kecskemét.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.protect|Kecskemét.protect]] 
 
-### [Kecskemét.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.private|Kecskemét.private]] 
 
-### [Kecskemét.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.personal|Kecskemét.personal]] 
 
-### [Kecskemét.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét.secret|Kecskemét.secret]] 
 

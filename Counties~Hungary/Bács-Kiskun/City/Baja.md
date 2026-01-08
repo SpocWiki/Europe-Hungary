@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28989
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.95
+dv_has_place_latitude: 46.18
+dv_name: Baja
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.95] 
-[has_place_latitude::46.18] 
-[name::Baja] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Baja](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja|Baja]] 
 
-### [Baja.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.public|Baja.public]] 
 
-### [Baja.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.internal|Baja.internal]] 
 
-### [Baja.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.protect|Baja.protect]] 
 
-### [Baja.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.private|Baja.private]] 
 
-### [Baja.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.personal|Baja.personal]] 
 
-### [Baja.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/City/Baja.secret|Baja.secret]] 
 

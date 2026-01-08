@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32217
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.13
+dv_has_place_latitude: 46.22
+dv_name: Magyarhertelend
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.13] 
-[has_place_latitude::46.22] 
-[name::Magyarhertelend] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Magyarhertelend](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend|Magyarhertelend]] 
 
-### [Magyarhertelend.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.public|Magyarhertelend.public]] 
 
-### [Magyarhertelend.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.internal|Magyarhertelend.internal]] 
 
-### [Magyarhertelend.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.protect|Magyarhertelend.protect]] 
 
-### [Magyarhertelend.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.private|Magyarhertelend.private]] 
 
-### [Magyarhertelend.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.personal|Magyarhertelend.personal]] 
 
-### [Magyarhertelend.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Magyarhertelend.secret|Magyarhertelend.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30657
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.27
+dv_has_place_latitude: 46.65
+dv_name: Gyula
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.27] 
-[has_place_latitude::46.65] 
-[name::Gyula] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gyula](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula|Gyula]] 
 
-### [Gyula.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.public|Gyula.public]] 
 
-### [Gyula.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.internal|Gyula.internal]] 
 
-### [Gyula.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.protect|Gyula.protect]] 
 
-### [Gyula.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.private|Gyula.private]] 
 
-### [Gyula.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.personal|Gyula.personal]] 
 
-### [Gyula.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/City/Gyula.secret|Gyula.secret]] 
 

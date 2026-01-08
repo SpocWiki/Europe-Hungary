@@ -40,17 +40,17 @@ markerFolder: ./Szabolcs-Szatmár-Bereg/
 
 ## Confidential Links & Embeds: 
 
-### [Szabolcs-Szatmár-Bereg](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg|Szabolcs-Szatmár-Bereg]] 
 
-### [Szabolcs-Szatmár-Bereg.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.public|Szabolcs-Szatmár-Bereg.public]] 
 
-### [Szabolcs-Szatmár-Bereg.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.internal|Szabolcs-Szatmár-Bereg.internal]] 
 
-### [Szabolcs-Szatmár-Bereg.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.protect|Szabolcs-Szatmár-Bereg.protect]] 
 
-### [Szabolcs-Szatmár-Bereg.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.private|Szabolcs-Szatmár-Bereg.private]] 
 
-### [Szabolcs-Szatmár-Bereg.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.personal|Szabolcs-Szatmár-Bereg.personal]] 
 
-### [Szabolcs-Szatmár-Bereg.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg.secret|Szabolcs-Szatmár-Bereg.secret]] 
 

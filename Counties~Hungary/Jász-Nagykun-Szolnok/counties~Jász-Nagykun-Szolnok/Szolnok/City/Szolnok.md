@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34713
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.2
+dv_has_place_latitude: 47.17
+dv_name: Szolnok
+dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.2] 
-[has_place_latitude::47.17] 
-[name::Szolnok] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Szolnok](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok|Szolnok]] 
 
-### [Szolnok.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.public|Szolnok.public]] 
 
-### [Szolnok.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.internal|Szolnok.internal]] 
 
-### [Szolnok.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.protect|Szolnok.protect]] 
 
-### [Szolnok.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.private|Szolnok.private]] 
 
-### [Szolnok.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.personal|Szolnok.personal]] 
 
-### [Szolnok.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/counties~Jász-Nagykun-Szolnok/Szolnok/City/Szolnok.secret|Szolnok.secret]] 
 

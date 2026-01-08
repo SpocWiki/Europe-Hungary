@@ -40,17 +40,17 @@ markerFolder: ./Komárom-Esztergom/
 
 ## Confidential Links & Embeds: 
 
-### [Komárom-Esztergom](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom|Komárom-Esztergom]] 
 
-### [Komárom-Esztergom.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.public|Komárom-Esztergom.public]] 
 
-### [Komárom-Esztergom.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.internal|Komárom-Esztergom.internal]] 
 
-### [Komárom-Esztergom.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.protect|Komárom-Esztergom.protect]] 
 
-### [Komárom-Esztergom.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.private|Komárom-Esztergom.private]] 
 
-### [Komárom-Esztergom.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.personal|Komárom-Esztergom.personal]] 
 
-### [Komárom-Esztergom.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom.secret|Komárom-Esztergom.secret]] 
 

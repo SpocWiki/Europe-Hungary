@@ -40,17 +40,17 @@ markerFolder: ./Békéscsaba/
 
 ## Confidential Links & Embeds: 
 
-### [Békéscsaba](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba|Békéscsaba]] 
 
-### [Békéscsaba.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.public|Békéscsaba.public]] 
 
-### [Békéscsaba.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.internal|Békéscsaba.internal]] 
 
-### [Békéscsaba.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.protect|Békéscsaba.protect]] 
 
-### [Békéscsaba.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.private|Békéscsaba.private]] 
 
-### [Békéscsaba.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.personal|Békéscsaba.personal]] 
 
-### [Békéscsaba.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Békés/counties~Békés/Békéscsaba.secret|Békéscsaba.secret]] 
 

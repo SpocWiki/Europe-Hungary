@@ -40,17 +40,17 @@ markerFolder: ./Szombathely/
 
 ## Confidential Links & Embeds: 
 
-### [Szombathely](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely|Szombathely]] 
 
-### [Szombathely.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.public|Szombathely.public]] 
 
-### [Szombathely.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.internal|Szombathely.internal]] 
 
-### [Szombathely.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.protect|Szombathely.protect]] 
 
-### [Szombathely.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.private|Szombathely.private]] 
 
-### [Szombathely.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.personal|Szombathely.personal]] 
 
-### [Szombathely.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely.secret|Szombathely.secret]] 
 

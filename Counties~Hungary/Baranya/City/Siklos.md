@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34267
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.32
+dv_has_place_latitude: 45.85
+dv_name: Siklos
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.32] 
-[has_place_latitude::45.85] 
-[name::Siklos] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siklos](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos|Siklos]] 
 
-### [Siklos.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.public|Siklos.public]] 
 
-### [Siklos.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.internal|Siklos.internal]] 
 
-### [Siklos.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.protect|Siklos.protect]] 
 
-### [Siklos.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.private|Siklos.private]] 
 
-### [Siklos.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.personal|Siklos.personal]] 
 
-### [Siklos.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/City/Siklos.secret|Siklos.secret]] 
 

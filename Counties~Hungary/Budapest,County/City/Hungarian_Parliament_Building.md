@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Hungarian_Parliament_Building,11819]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Hungarian_Parliament_Building,11819]]"
+
 has_time_started: 2000-06 
 aliases:
 has_id_wikidata: Q11819
@@ -24,7 +28,7 @@ date_of_official_opening: 1904-01-01T00:00:00Z
 
 # [[Hungarian_Parliament_Building]] 
 
-#is_/same_as :: [[WD~Hungarian_Parliament_Building,11819]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -47,4 +51,21 @@ date_of_official_opening: 1904-01-01T00:00:00Z
 > was influenced by the Maria vom Siege church in Vienna.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hungarian%20Parliament%20Building) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Hungarian_Parliament_Building|Hungarian_Parliament_Building]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Hungarian_Parliament_Building.public|Hungarian_Parliament_Building.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Hungarian_Parliament_Building.internal|Hungarian_Parliament_Building.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Hungarian_Parliament_Building.protect|Hungarian_Parliament_Building.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Hungarian_Parliament_Building.private|Hungarian_Parliament_Building.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Hungarian_Parliament_Building.personal|Hungarian_Parliament_Building.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Hungarian_Parliament_Building.secret|Hungarian_Parliament_Building.secret]] 
 

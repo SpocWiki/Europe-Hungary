@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29112
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.53
+dv_has_place_latitude: 47.22
+dv_name: Berettyo-Ujfalu
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.53] 
-[has_place_latitude::47.22] 
-[name::Berettyo-Ujfalu] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Berettyo-Ujfalu](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu|Berettyo-Ujfalu]] 
 
-### [Berettyo-Ujfalu.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.public|Berettyo-Ujfalu.public]] 
 
-### [Berettyo-Ujfalu.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.internal|Berettyo-Ujfalu.internal]] 
 
-### [Berettyo-Ujfalu.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.protect|Berettyo-Ujfalu.protect]] 
 
-### [Berettyo-Ujfalu.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.private|Berettyo-Ujfalu.private]] 
 
-### [Berettyo-Ujfalu.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.personal|Berettyo-Ujfalu.personal]] 
 
-### [Berettyo-Ujfalu.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/City/Berettyo-Ujfalu.secret|Berettyo-Ujfalu.secret]] 
 

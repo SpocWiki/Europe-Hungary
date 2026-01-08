@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.08
+dv_has_place_latitude: 47.49
+dv_name: Budapest
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Budapest,1781|WD~Budapest,1781]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Budapest,1781|WD~Budapest,1781]]"
+
 has_time_started: 1873-11-17 
 aliases:
   - Budapest
@@ -189,17 +197,17 @@ ISNI: 0000000115516585
 # [[Budapest,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.08] 
-[has_place_latitude::47.49] 
-[name::Budapest] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Hungary]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Budapest,1781|WD~Budapest,1781]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -262,17 +270,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Budapest](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Budapest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Budapest,City|Budapest,City]] 
 
-### [Budapest.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Budapest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Budapest,City.public|Budapest,City.public]] 
 
-### [Budapest.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Budapest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Budapest,City.internal|Budapest,City.internal]] 
 
-### [Budapest.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Budapest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Budapest,City.protect|Budapest,City.protect]] 
 
-### [Budapest.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Budapest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Budapest,City.private|Budapest,City.private]] 
 
-### [Budapest.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Budapest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Budapest,City.personal|Budapest,City.personal]] 
 
-### [Budapest.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Budapest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Budapest,City.secret|Budapest,City.secret]] 
 

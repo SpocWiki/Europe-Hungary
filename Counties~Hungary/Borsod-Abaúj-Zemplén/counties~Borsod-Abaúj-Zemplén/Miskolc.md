@@ -40,17 +40,17 @@ markerFolder: ./Miskolc/
 
 ## Confidential Links & Embeds: 
 
-### [Miskolc](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc|Miskolc]] 
 
-### [Miskolc.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.public|Miskolc.public]] 
 
-### [Miskolc.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.internal|Miskolc.internal]] 
 
-### [Miskolc.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.protect|Miskolc.protect]] 
 
-### [Miskolc.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.private|Miskolc.private]] 
 
-### [Miskolc.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.personal|Miskolc.personal]] 
 
-### [Miskolc.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/counties~Borsod-Abaúj-Zemplén/Miskolc.secret|Miskolc.secret]] 
 

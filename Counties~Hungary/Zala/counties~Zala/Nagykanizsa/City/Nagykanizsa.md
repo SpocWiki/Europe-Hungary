@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32715
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17
+dv_has_place_latitude: 46.47
+dv_name: Nagykanizsa
+dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17] 
-[has_place_latitude::46.47] 
-[name::Nagykanizsa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nagykanizsa](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa|Nagykanizsa]] 
 
-### [Nagykanizsa.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.public|Nagykanizsa.public]] 
 
-### [Nagykanizsa.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.internal|Nagykanizsa.internal]] 
 
-### [Nagykanizsa.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.protect|Nagykanizsa.protect]] 
 
-### [Nagykanizsa.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.private|Nagykanizsa.private]] 
 
-### [Nagykanizsa.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.personal|Nagykanizsa.personal]] 
 
-### [Nagykanizsa.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Zala/counties~Zala/Nagykanizsa/City/Nagykanizsa.secret|Nagykanizsa.secret]] 
 

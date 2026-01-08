@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32993
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.72
+dv_has_place_latitude: 47.97
+dv_name: Nyiregyhaza
+dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.72] 
-[has_place_latitude::47.97] 
-[name::Nyiregyhaza] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nyiregyhaza](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza|Nyiregyhaza]] 
 
-### [Nyiregyhaza.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.public|Nyiregyhaza.public]] 
 
-### [Nyiregyhaza.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.internal|Nyiregyhaza.internal]] 
 
-### [Nyiregyhaza.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.protect|Nyiregyhaza.protect]] 
 
-### [Nyiregyhaza.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.private|Nyiregyhaza.private]] 
 
-### [Nyiregyhaza.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.personal|Nyiregyhaza.personal]] 
 
-### [Nyiregyhaza.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza/City/Nyiregyhaza.secret|Nyiregyhaza.secret]] 
 

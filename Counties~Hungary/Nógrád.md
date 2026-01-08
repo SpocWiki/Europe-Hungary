@@ -40,17 +40,17 @@ markerFolder: ./Nógrád/
 
 ## Confidential Links & Embeds: 
 
-### [Nógrád](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád|Nógrád]] 
 
-### [Nógrád.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.public|Nógrád.public]] 
 
-### [Nógrád.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.internal|Nógrád.internal]] 
 
-### [Nógrád.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.protect|Nógrád.protect]] 
 
-### [Nógrád.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.private|Nógrád.private]] 
 
-### [Nógrád.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.personal|Nógrád.personal]] 
 
-### [Nógrád.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Nógrád.secret|Nógrád.secret]] 
 

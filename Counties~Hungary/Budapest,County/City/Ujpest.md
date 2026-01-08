@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35099
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.12
+dv_has_place_latitude: 47.58
+dv_name: Ujpest
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.12] 
-[has_place_latitude::47.58] 
-[name::Ujpest] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ujpest](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Ujpest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Ujpest|Ujpest]] 
 
-### [Ujpest.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Ujpest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Ujpest.public|Ujpest.public]] 
 
-### [Ujpest.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Ujpest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Ujpest.internal|Ujpest.internal]] 
 
-### [Ujpest.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Ujpest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Ujpest.protect|Ujpest.protect]] 
 
-### [Ujpest.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Ujpest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Ujpest.private|Ujpest.private]] 
 
-### [Ujpest.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Ujpest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Ujpest.personal|Ujpest.personal]] 
 
-### [Ujpest.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest/City/Ujpest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Budapest,County/City/Ujpest.secret|Ujpest.secret]] 
 

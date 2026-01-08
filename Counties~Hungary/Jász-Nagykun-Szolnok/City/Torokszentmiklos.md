@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34914
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.43
+dv_has_place_latitude: 47.18
+dv_name: Torokszentmiklos
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.43] 
-[has_place_latitude::47.18] 
-[name::Torokszentmiklos] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torokszentmiklos](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos|Torokszentmiklos]] 
 
-### [Torokszentmiklos.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.public|Torokszentmiklos.public]] 
 
-### [Torokszentmiklos.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.internal|Torokszentmiklos.internal]] 
 
-### [Torokszentmiklos.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.protect|Torokszentmiklos.protect]] 
 
-### [Torokszentmiklos.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.private|Torokszentmiklos.private]] 
 
-### [Torokszentmiklos.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.personal|Torokszentmiklos.personal]] 
 
-### [Torokszentmiklos.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Torokszentmiklos.secret|Torokszentmiklos.secret]] 
 

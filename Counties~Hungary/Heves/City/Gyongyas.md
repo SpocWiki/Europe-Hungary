@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30655
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.93
+dv_has_place_latitude: 47.78
+dv_name: Gyongyas
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.93] 
-[has_place_latitude::47.78] 
-[name::Gyongyas] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gyongyas](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas|Gyongyas]] 
 
-### [Gyongyas.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.public|Gyongyas.public]] 
 
-### [Gyongyas.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.internal|Gyongyas.internal]] 
 
-### [Gyongyas.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.protect|Gyongyas.protect]] 
 
-### [Gyongyas.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.private|Gyongyas.private]] 
 
-### [Gyongyas.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.personal|Gyongyas.personal]] 
 
-### [Gyongyas.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Heves/City/Gyongyas.secret|Gyongyas.secret]] 
 

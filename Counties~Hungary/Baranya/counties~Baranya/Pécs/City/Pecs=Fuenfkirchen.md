@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33272
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.23
+dv_has_place_latitude: 46.08
+dv_name: Pecs=Fuenfkirchen
+dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.23] 
-[has_place_latitude::46.08] 
-[name::Pecs=Fuenfkirchen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pecs=Fuenfkirchen](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen|Pecs=Fuenfkirchen]] 
 
-### [Pecs=Fuenfkirchen.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.public|Pecs=Fuenfkirchen.public]] 
 
-### [Pecs=Fuenfkirchen.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.internal|Pecs=Fuenfkirchen.internal]] 
 
-### [Pecs=Fuenfkirchen.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.protect|Pecs=Fuenfkirchen.protect]] 
 
-### [Pecs=Fuenfkirchen.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.private|Pecs=Fuenfkirchen.private]] 
 
-### [Pecs=Fuenfkirchen.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.personal|Pecs=Fuenfkirchen.personal]] 
 
-### [Pecs=Fuenfkirchen.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Baranya/counties~Baranya/Pécs/City/Pecs=Fuenfkirchen.secret|Pecs=Fuenfkirchen.secret]] 
 

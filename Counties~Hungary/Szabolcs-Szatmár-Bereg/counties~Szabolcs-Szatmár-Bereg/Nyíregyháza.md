@@ -40,17 +40,17 @@ markerFolder: ./Nyíregyháza/
 
 ## Confidential Links & Embeds: 
 
-### [Nyíregyháza](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza|Nyíregyháza]] 
 
-### [Nyíregyháza.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.public|Nyíregyháza.public]] 
 
-### [Nyíregyháza.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.internal|Nyíregyháza.internal]] 
 
-### [Nyíregyháza.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.protect|Nyíregyháza.protect]] 
 
-### [Nyíregyháza.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.private|Nyíregyháza.private]] 
 
-### [Nyíregyháza.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.personal|Nyíregyháza.personal]] 
 
-### [Nyíregyháza.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/counties~Szabolcs-Szatmár-Bereg/Nyíregyháza.secret|Nyíregyháza.secret]] 
 

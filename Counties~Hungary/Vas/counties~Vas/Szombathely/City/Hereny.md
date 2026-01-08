@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30898
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.6
+dv_has_place_latitude: 47.27
+dv_name: Hereny
+dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.6] 
-[has_place_latitude::47.27] 
-[name::Hereny] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hereny](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny|Hereny]] 
 
-### [Hereny.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.public|Hereny.public]] 
 
-### [Hereny.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.internal|Hereny.internal]] 
 
-### [Hereny.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.protect|Hereny.protect]] 
 
-### [Hereny.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.private|Hereny.private]] 
 
-### [Hereny.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.personal|Hereny.personal]] 
 
-### [Hereny.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Vas/counties~Vas/Szombathely/City/Hereny.secret|Hereny.secret]] 
 

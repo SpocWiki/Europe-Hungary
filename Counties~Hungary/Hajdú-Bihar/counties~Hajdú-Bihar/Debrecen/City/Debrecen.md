@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29732
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.63
+dv_has_place_latitude: 47.53
+dv_name: Debrecen
+dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.63] 
-[has_place_latitude::47.53] 
-[name::Debrecen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Debrecen](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen|Debrecen]] 
 
-### [Debrecen.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.public|Debrecen.public]] 
 
-### [Debrecen.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.internal|Debrecen.internal]] 
 
-### [Debrecen.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.protect|Debrecen.protect]] 
 
-### [Debrecen.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.private|Debrecen.private]] 
 
-### [Debrecen.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.personal|Debrecen.personal]] 
 
-### [Debrecen.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Hajdú-Bihar/counties~Hajdú-Bihar/Debrecen/City/Debrecen.secret|Debrecen.secret]] 
 

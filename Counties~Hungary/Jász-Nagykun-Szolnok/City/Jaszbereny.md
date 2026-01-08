@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31171
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.93
+dv_has_place_latitude: 47.5
+dv_name: Jaszbereny
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.93] 
-[has_place_latitude::47.5] 
-[name::Jaszbereny] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jaszbereny](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny|Jaszbereny]] 
 
-### [Jaszbereny.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.public|Jaszbereny.public]] 
 
-### [Jaszbereny.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.internal|Jaszbereny.internal]] 
 
-### [Jaszbereny.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.protect|Jaszbereny.protect]] 
 
-### [Jaszbereny.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.private|Jaszbereny.private]] 
 
-### [Jaszbereny.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.personal|Jaszbereny.personal]] 
 
-### [Jaszbereny.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Jász-Nagykun-Szolnok/City/Jaszbereny.secret|Jaszbereny.secret]] 
 

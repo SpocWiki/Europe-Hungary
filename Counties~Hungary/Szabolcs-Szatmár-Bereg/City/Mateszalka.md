@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32345
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.33
+dv_has_place_latitude: 47.95
+dv_name: Mateszalka
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.33] 
-[has_place_latitude::47.95] 
-[name::Mateszalka] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mateszalka](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka|Mateszalka]] 
 
-### [Mateszalka.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.public|Mateszalka.public]] 
 
-### [Mateszalka.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.internal|Mateszalka.internal]] 
 
-### [Mateszalka.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.protect|Mateszalka.protect]] 
 
-### [Mateszalka.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.private|Mateszalka.private]] 
 
-### [Mateszalka.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.personal|Mateszalka.personal]] 
 
-### [Mateszalka.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Szabolcs-Szatmár-Bereg/City/Mateszalka.secret|Mateszalka.secret]] 
 

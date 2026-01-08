@@ -40,17 +40,17 @@ markerFolder: ./Szekszárd/
 
 ## Confidential Links & Embeds: 
 
-### [Szekszárd](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd|Szekszárd]] 
 
-### [Szekszárd.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.public|Szekszárd.public]] 
 
-### [Szekszárd.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.internal|Szekszárd.internal]] 
 
-### [Szekszárd.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.protect|Szekszárd.protect]] 
 
-### [Szekszárd.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.private|Szekszárd.private]] 
 
-### [Szekszárd.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.personal|Szekszárd.personal]] 
 
-### [Szekszárd.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Tolna/counties~Tolna/Szekszárd.secret|Szekszárd.secret]] 
 

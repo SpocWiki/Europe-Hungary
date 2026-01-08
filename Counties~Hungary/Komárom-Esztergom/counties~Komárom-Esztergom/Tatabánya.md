@@ -40,17 +40,17 @@ markerFolder: ./Tatabánya/
 
 ## Confidential Links & Embeds: 
 
-### [Tatabánya](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya|Tatabánya]] 
 
-### [Tatabánya.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.public|Tatabánya.public]] 
 
-### [Tatabánya.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.internal|Tatabánya.internal]] 
 
-### [Tatabánya.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.protect|Tatabánya.protect]] 
 
-### [Tatabánya.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.private|Tatabánya.private]] 
 
-### [Tatabánya.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.personal|Tatabánya.personal]] 
 
-### [Tatabánya.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Komárom-Esztergom/counties~Komárom-Esztergom/Tatabánya.secret|Tatabánya.secret]] 
 

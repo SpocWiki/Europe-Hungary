@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32455
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.65
+dv_has_place_latitude: 47.82
+dv_name: Mezokovesa
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.65] 
-[has_place_latitude::47.82] 
-[name::Mezokovesa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mezokovesa](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa|Mezokovesa]] 
 
-### [Mezokovesa.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.public|Mezokovesa.public]] 
 
-### [Mezokovesa.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.internal|Mezokovesa.internal]] 
 
-### [Mezokovesa.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.protect|Mezokovesa.protect]] 
 
-### [Mezokovesa.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.private|Mezokovesa.private]] 
 
-### [Mezokovesa.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.personal|Mezokovesa.personal]] 
 
-### [Mezokovesa.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Borsod-Abaúj-Zemplén/City/Mezokovesa.secret|Mezokovesa.secret]] 
 

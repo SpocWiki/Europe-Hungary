@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35260
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.9
+dv_has_place_latitude: 47.1
+dv_name: Veszprem
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.9] 
-[has_place_latitude::47.1] 
-[name::Veszprem] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Veszprem](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem|Veszprem]] 
 
-### [Veszprem.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.public|Veszprem.public]] 
 
-### [Veszprem.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.internal|Veszprem.internal]] 
 
-### [Veszprem.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.protect|Veszprem.protect]] 
 
-### [Veszprem.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.private|Veszprem.private]] 
 
-### [Veszprem.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.personal|Veszprem.personal]] 
 
-### [Veszprem.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Veszprém/City/Veszprem.secret|Veszprem.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31399
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.7
+dv_has_place_latitude: 46.9
+dv_name: Keszkement
+dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.7] 
-[has_place_latitude::46.9] 
-[name::Keszkement] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Keszkement](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement|Keszkement]] 
 
-### [Keszkement.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.public|Keszkement.public]] 
 
-### [Keszkement.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.internal|Keszkement.internal]] 
 
-### [Keszkement.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.protect|Keszkement.protect]] 
 
-### [Keszkement.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.private|Keszkement.private]] 
 
-### [Keszkement.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.personal|Keszkement.personal]] 
 
-### [Keszkement.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Bács-Kiskun/counties~Bács-Kiskun/Kecskemét/City/Keszkement.secret|Keszkement.secret]] 
 

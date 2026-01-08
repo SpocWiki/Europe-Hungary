@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35881
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.6
+dv_has_place_latitude: 47.68
+dv_name: Oedenburg
+dv_Country: "[[../../../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.6] 
-[has_place_latitude::47.68] 
-[name::Oedenburg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oedenburg](/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg|Oedenburg]] 
 
-### [Oedenburg.public](/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.public|Oedenburg.public]] 
 
-### [Oedenburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.internal|Oedenburg.internal]] 
 
-### [Oedenburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.protect|Oedenburg.protect]] 
 
-### [Oedenburg.private](/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.private|Oedenburg.private]] 
 
-### [Oedenburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.personal|Oedenburg.personal]] 
 
-### [Oedenburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary/Counties~Hungary/Gyor-Moson-Sopron/counties~Gyor-Moson-Sopron/Sopron/City/Oedenburg.secret|Oedenburg.secret]] 
 
