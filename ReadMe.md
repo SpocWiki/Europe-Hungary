@@ -353,7 +353,7 @@ dv_UNTERM_Chinese_Formal: 匈牙利
 dv_UNTERM_French_Formal: la Hongrie
 dv_UNTERM_Russian: Венгрия
 dv_UNTERM_Russian_Formal: Венгрия
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Hungary]]'
 dv_Sub-region_Name: '[[Eastern Europe]]'
 dv_Region: 150
@@ -379,11 +379,11 @@ dv_ISO3: HUN
 dv_has_name_de: Ungarn
 dv_Area-Total: 93030
 dv_Area-Land: 92340
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: H
-dv_Capital: '[[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest|Budapest]]'
+dv_Capital: '[[../geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest|Budapest]]'
 dv_Alcohol-l: 16.3
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 19.1508
 dv_has_place_latitude: 47.2796
 dv_is_:
@@ -695,7 +695,7 @@ demonym:
 - Hungarian
 - Ungar
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
 - '[[/_Standards/WikiData/WD~COMECON,191582|WD~COMECON,191582]]'
@@ -882,7 +882,7 @@ diplomatic_relation:
 culture: '[[/_Standards/WikiData/WD~culture_of_Hungary,246505|WD~culture_of_Hungary,246505]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
@@ -1186,7 +1186,7 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Hungary/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1207,7 +1207,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Hungary_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1235,7 +1235,7 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Hungary.svg|359]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Hungary.mp3|Anthem-Hungary.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Hungary.mp3|Anthem-Hungary.mp3]]
 
 ![[Flag_of_Hungary.svg|299]]
 Alcohol-l = `=this.dv_Alcohol-l`
